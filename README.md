@@ -276,7 +276,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Tools and Libraries
 
-* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 13,901 | 🐛 120 | 🌐 C++ | 📅 2026-08-14
+* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 13,903 | 🐛 120 | 🌐 C++ | 📅 2026-08-14
 * [**PyOptInterface**](https://github.com/metab0t/PyOptInterface) ⭐ 314 | 🐛 9 | 🌐 C++ | 📅 2026-08-11 - Efficient modeling interface for mathematical optimization in **Python**.
 * [**or-tools-wasm**](https://github.com/Axelwickm/or-tools-wasm) ⭐ 55 | 🐛 2 | 🌐 C++ | 📅 2026-07-28 - Multithreaded Typescript/Wasm build of Google OR-Tools.
 * [**COIN-OR**](https://www.coin-or.org/) | [repository](https://github.com/coin-or/)
@@ -313,9 +313,9 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Code Repositories
 
-* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,300 | 🐛 195 | 🌐 C++ | 📅 2026-08-12:\
+* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,301 | 🐛 194 | 🌐 C++ | 📅 2026-08-16:\
   A Python-embedded modeling language for convex optimization problems.
-* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,584 | 🐛 98 | 🌐 Jupyter Notebook | 📅 2026-08-14:\
+* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,584 | 🐛 92 | 🌐 Jupyter Notebook | 📅 2026-08-15:\
   Bayesian optimization in PyTorch
 * [EvoTorch](https://github.com/nnaisense/evotorch) ⭐ 1,145 | 🐛 19 | 🌐 Python | 📅 2026-08-10:\
   Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE.
@@ -358,4 +358,4 @@ Thank you for your contributions to making this repository a valuable resource f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
