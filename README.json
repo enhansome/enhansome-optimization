@@ -68,7 +68,7 @@
             "last_commit": "2026-08-14T14:52:07Z",
             "owner": "google",
             "repo": "or-tools",
-            "stars": 13903
+            "stars": 13906
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-15T17:07:34Z",
             "owner": "meta-pytorch",
             "repo": "botorch",
-            "stars": 3584
+            "stars": 3585
           }
         },
         {
@@ -149,7 +149,7 @@
             "last_commit": "2026-08-10T20:07:10Z",
             "owner": "nnaisense",
             "repo": "evotorch",
-            "stars": 1145
+            "stars": 1143
           }
         },
         {
@@ -255,7 +255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T10:01:59.647Z",
+    "last_updated": "2026-08-17T10:16:49.383Z",
     "original_repository": "ebrahimpichka/awesome-optimization",
     "original_repository_sha": "ee45310f7d899ee8d550e7c67f6a2068e73adabc",
     "enhanced_repository": "enhansome/enhansome-optimization",
