@@ -38,7 +38,7 @@
             "last_commit": "2026-08-10T16:13:57Z",
             "owner": "open-optimization",
             "repo": "open-optimization-or-book",
-            "stars": 39
+            "stars": 40
           }
         }
       ],
@@ -68,7 +68,7 @@
             "last_commit": "2026-08-14T14:52:07Z",
             "owner": "google",
             "repo": "or-tools",
-            "stars": 13906
+            "stars": 13909
           }
         },
         {
@@ -82,7 +82,7 @@
             "last_commit": "2026-08-11T10:33:17Z",
             "owner": "metab0t",
             "repo": "PyOptInterface",
-            "stars": 314
+            "stars": 315
           }
         },
         {
@@ -118,10 +118,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T01:40:47Z",
+            "last_commit": "2026-08-18T05:46:02Z",
             "owner": "cvxpy",
             "repo": "cvxpy",
-            "stars": 6301
+            "stars": 6303
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-15T17:07:34Z",
             "owner": "meta-pytorch",
             "repo": "botorch",
-            "stars": 3585
+            "stars": 3587
           }
         },
         {
@@ -146,7 +146,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T20:07:10Z",
+            "last_commit": "2026-08-17T20:29:59Z",
             "owner": "nnaisense",
             "repo": "evotorch",
             "stars": 1143
@@ -255,7 +255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:16:49.383Z",
+    "last_updated": "2026-08-18T10:11:15.530Z",
     "original_repository": "ebrahimpichka/awesome-optimization",
     "original_repository_sha": "ee45310f7d899ee8d550e7c67f6a2068e73adabc",
     "enhanced_repository": "enhansome/enhansome-optimization",

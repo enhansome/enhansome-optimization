@@ -192,7 +192,7 @@ This list tries to cover vast topics in math. opt. i.e. discrete and combinatori
 ### Operations Research
 
 * *Julia Programming for Operations Research* by Changhyun Kwon - [PDF](https://juliabook.chkwon.net/book) - [code](https://github.com/chkwon/jpor_codes) ⭐ 202 | 🐛 1 | 🌐 Julia | 📅 2021-03-10
-* *Mathematical Programming and Operations Research: Modeling, Algorithms, and Complexity. Examples in Python and Julia*. Edited by Robert Hildebrand - [PDF](https://github.com/open-optimization/open-optimization-or-book/blob/master/MathematicalProgrammingandOperationsResearch.pdf) ⭐ 39 | 🐛 1 | 🌐 HTML | 📅 2026-08-10
+* *Mathematical Programming and Operations Research: Modeling, Algorithms, and Complexity. Examples in Python and Julia*. Edited by Robert Hildebrand - [PDF](https://github.com/open-optimization/open-optimization-or-book/blob/master/MathematicalProgrammingandOperationsResearch.pdf) ⭐ 40 | 🐛 1 | 🌐 HTML | 📅 2026-08-10
 * *Operations Research An Introduction* by Hamdy A. Taha - [Pearson](https://www.pearson.com/en-us/subject-catalog/p/operations-research-an-introduction/P200000003221)
 * *Introduction to Operations Research* by Frederick Hillier and Gerald Lieberman - [McGraw Hill](https://www.mheducation.com/highered/product/introduction-operations-research-hillier-lieberman/M9781259872990.html)
 * *A First Course in Linear Optimization* by Jon Lee - [PDF](https://www.solvermax.com/downloads/lee-linearoptimization4.pdf)
@@ -276,8 +276,8 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Tools and Libraries
 
-* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 13,906 | 🐛 120 | 🌐 C++ | 📅 2026-08-14
-* [**PyOptInterface**](https://github.com/metab0t/PyOptInterface) ⭐ 314 | 🐛 9 | 🌐 C++ | 📅 2026-08-11 - Efficient modeling interface for mathematical optimization in **Python**.
+* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 13,909 | 🐛 120 | 🌐 C++ | 📅 2026-08-14
+* [**PyOptInterface**](https://github.com/metab0t/PyOptInterface) ⭐ 315 | 🐛 9 | 🌐 C++ | 📅 2026-08-11 - Efficient modeling interface for mathematical optimization in **Python**.
 * [**or-tools-wasm**](https://github.com/Axelwickm/or-tools-wasm) ⭐ 55 | 🐛 2 | 🌐 C++ | 📅 2026-07-28 - Multithreaded Typescript/Wasm build of Google OR-Tools.
 * [**COIN-OR**](https://www.coin-or.org/) | [repository](https://github.com/coin-or/)
 * [**MiniZinc**](https://www.minizinc.org/) - Constraint modeling language.
@@ -313,11 +313,11 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Code Repositories
 
-* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,301 | 🐛 194 | 🌐 C++ | 📅 2026-08-16:\
+* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,303 | 🐛 193 | 🌐 C++ | 📅 2026-08-18:\
   A Python-embedded modeling language for convex optimization problems.
-* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,585 | 🐛 93 | 🌐 Jupyter Notebook | 📅 2026-08-15:\
+* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,587 | 🐛 93 | 🌐 Jupyter Notebook | 📅 2026-08-15:\
   Bayesian optimization in PyTorch
-* [EvoTorch](https://github.com/nnaisense/evotorch) ⭐ 1,143 | 🐛 19 | 🌐 Python | 📅 2026-08-10:\
+* [EvoTorch](https://github.com/nnaisense/evotorch) ⭐ 1,143 | 🐛 19 | 🌐 Python | 📅 2026-08-17:\
   Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE.
 * [TorchOpt](https://github.com/metaopt/torchopt) ⭐ 636 | 🐛 20 | 🌐 Python | 📅 2026-08-03:\
   efficient library for differentiable optimization built upon PyTorch.
@@ -358,4 +358,4 @@ Thank you for your contributions to making this repository a valuable resource f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
