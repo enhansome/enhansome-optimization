@@ -276,7 +276,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Tools and Libraries
 
-* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 13,916 | 🐛 121 | 🌐 C++ | 📅 2026-08-14
+* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 13,920 | 🐛 123 | 🌐 C++ | 📅 2026-08-20
 * [**PyOptInterface**](https://github.com/metab0t/PyOptInterface) ⭐ 315 | 🐛 9 | 🌐 C++ | 📅 2026-08-11 - Efficient modeling interface for mathematical optimization in **Python**.
 * [**or-tools-wasm**](https://github.com/Axelwickm/or-tools-wasm) ⭐ 55 | 🐛 2 | 🌐 C++ | 📅 2026-07-28 - Multithreaded Typescript/Wasm build of Google OR-Tools.
 * [**COIN-OR**](https://www.coin-or.org/) | [repository](https://github.com/coin-or/)
@@ -313,21 +313,21 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Code Repositories
 
-* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,305 | 🐛 194 | 🌐 C++ | 📅 2026-08-18:\
+* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,305 | 🐛 193 | 🌐 C++ | 📅 2026-08-20:\
   A Python-embedded modeling language for convex optimization problems.
-* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,587 | 🐛 93 | 🌐 Jupyter Notebook | 📅 2026-08-15:\
+* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,588 | 🐛 94 | 🌐 Jupyter Notebook | 📅 2026-08-19:\
   Bayesian optimization in PyTorch
 * [EvoTorch](https://github.com/nnaisense/evotorch) ⭐ 1,143 | 🐛 19 | 🌐 Python | 📅 2026-08-17:\
   Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE.
 * [TorchOpt](https://github.com/metaopt/torchopt) ⭐ 636 | 🐛 20 | 🌐 Python | 📅 2026-08-03:\
   efficient library for differentiable optimization built upon PyTorch.
-* [or-gym](https://github.com/hubbs5/or-gym) ⭐ 452 | 🐛 11 | 🌐 Python | 📅 2023-10-12:\
+* [or-gym](https://github.com/hubbs5/or-gym) ⭐ 453 | 🐛 11 | 🌐 Python | 📅 2023-10-12:\
   nvironments for OR and RL Research
 * [pyconcorde](https://github.com/jvkersch/pyconcorde) ⭐ 397 | 🐛 17 | 🌐 Python | 📅 2026-03-09:\
   Python wrapper around the Concorde TSP solver
 * [ecole](https://github.com/ds4dm/ecole) ⭐ 374 | 🐛 59 | 🌐 C++ | 📅 2025-12-20:\
   Extensible Combinatorial Optimization Learning Environments
-* [MIPLearn](https://github.com/ANL-CEEESA/MIPLearn) ⭐ 196 | 🐛 3 | 🌐 Python | 📅 2026-07-21:\
+* [MIPLearn](https://github.com/ANL-CEEESA/MIPLearn) ⭐ 197 | 🐛 3 | 🌐 Python | 📅 2026-07-21:\
   Framework for solving discrete optimization problems using a combination of Mixed-Integer Linear Programming (MIP) and Machine Learning (ML)
 * [Introduction to Linear Programming with Python](https://github.com/benalexkeen/Introduction-to-linear-programming) ⭐ 182 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2020-07-15:\
   Introduction to Linear Programming with Python
@@ -358,4 +358,4 @@ Thank you for your contributions to making this repository a valuable resource f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

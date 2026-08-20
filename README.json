@@ -57,10 +57,10 @@
                 "archived": false,
                 "id": 31102092,
                 "language": "C++",
-                "last_commit": "2026-08-14T14:52:07Z",
+                "last_commit": "2026-08-20T10:01:27Z",
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 13916
+                "stars": 13920
               }
             },
             {
@@ -115,7 +115,7 @@
                 "archived": false,
                 "id": 11110385,
                 "language": "C++",
-                "last_commit": "2026-08-18T21:56:03Z",
+                "last_commit": "2026-08-20T07:23:22Z",
                 "owner": "cvxpy",
                 "repo": "cvxpy",
                 "stars": 6305
@@ -130,10 +130,10 @@
                 "archived": false,
                 "id": 142940093,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-15T17:07:34Z",
+                "last_commit": "2026-08-19T16:37:33Z",
                 "owner": "meta-pytorch",
                 "repo": "botorch",
-                "stars": 3587
+                "stars": 3588
               }
             },
             {
@@ -178,7 +178,7 @@
                 "last_commit": "2023-10-12T09:23:58Z",
                 "owner": "hubbs5",
                 "repo": "or-gym",
-                "stars": 452
+                "stars": 453
               }
             },
             {
@@ -223,7 +223,7 @@
                 "last_commit": "2026-07-21T15:47:20Z",
                 "owner": "ANL-CEEESA",
                 "repo": "MIPLearn",
-                "stars": 196
+                "stars": 197
               }
             },
             {
@@ -266,7 +266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:47:40.743Z",
+    "last_updated": "2026-08-20T10:13:39.475Z",
     "original_repository": "ebrahimpichka/awesome-optimization",
     "original_repository_id": 712233221,
     "original_repository_sha": "ee45310f7d899ee8d550e7c67f6a2068e73adabc",
