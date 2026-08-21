@@ -212,7 +212,7 @@ This list tries to cover vast topics in math. opt. i.e. discrete and combinatori
 
 * *Metaheuristic and Evolutionary Computation: Algorithms and Applications* by Hasmat Malik, Atif Iqbal, Puneet Joshi, Sanjay Agrawal, and Farhad Ilahi Bakhsh - [Springer (open access)](https://link.springer.com/book/10.1007/978-981-15-7571-6)
 
-* *Clever Algorithms: Nature-Inspired Programming Recipes* by Jason Brownlee - [GitHub](https://github.com/clever-algorithms/CleverAlgorithms) ⭐ 2,116 | 🐛 32 | 🌐 TeX | 📅 2024-12-20
+* *Clever Algorithms: Nature-Inspired Programming Recipes* by Jason Brownlee - [GitHub](https://github.com/clever-algorithms/CleverAlgorithms) ⭐ 2,115 | 🐛 32 | 🌐 TeX | 📅 2024-12-20
 
 * *Metaheuristics: from design to implementation* by El-Ghazali Talbi - [Wiley](https://www.wiley.com/en-us/Metaheuristics%3A+From+Design+to+Implementation+-p-9780470278581#:~:text=Description,-A%20unified%20view\&text=This%20book%20provides%20a%20complete,design%2C%20routing%2C%20and%20scheduling.)
 
@@ -276,7 +276,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Tools and Libraries
 
-* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 13,920 | 🐛 123 | 🌐 C++ | 📅 2026-08-20
+* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 13,929 | 🐛 124 | 🌐 C++ | 📅 2026-08-20
 * [**PyOptInterface**](https://github.com/metab0t/PyOptInterface) ⭐ 315 | 🐛 9 | 🌐 C++ | 📅 2026-08-11 - Efficient modeling interface for mathematical optimization in **Python**.
 * [**or-tools-wasm**](https://github.com/Axelwickm/or-tools-wasm) ⭐ 55 | 🐛 2 | 🌐 C++ | 📅 2026-07-28 - Multithreaded Typescript/Wasm build of Google OR-Tools.
 * [**COIN-OR**](https://www.coin-or.org/) | [repository](https://github.com/coin-or/)
@@ -313,9 +313,9 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Code Repositories
 
-* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,305 | 🐛 193 | 🌐 C++ | 📅 2026-08-20:\
+* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,307 | 🐛 196 | 🌐 C++ | 📅 2026-08-21:\
   A Python-embedded modeling language for convex optimization problems.
-* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,588 | 🐛 94 | 🌐 Jupyter Notebook | 📅 2026-08-19:\
+* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,588 | 🐛 95 | 🌐 Jupyter Notebook | 📅 2026-08-20:\
   Bayesian optimization in PyTorch
 * [EvoTorch](https://github.com/nnaisense/evotorch) ⭐ 1,143 | 🐛 19 | 🌐 Python | 📅 2026-08-17:\
   Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE.
@@ -358,4 +358,4 @@ Thank you for your contributions to making this repository a valuable resource f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
