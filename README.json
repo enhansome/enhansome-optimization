@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-10T16:13:57Z",
                 "owner": "open-optimization",
                 "repo": "open-optimization-or-book",
-                "stars": 40
+                "stars": 41
               }
             }
           ],
@@ -60,7 +60,7 @@
                 "last_commit": "2026-08-20T13:32:38Z",
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 13929
+                "stars": 13935
               }
             },
             {
@@ -115,10 +115,10 @@
                 "archived": false,
                 "id": 11110385,
                 "language": "C++",
-                "last_commit": "2026-08-21T03:53:39Z",
+                "last_commit": "2026-08-22T04:32:37Z",
                 "owner": "cvxpy",
                 "repo": "cvxpy",
-                "stars": 6307
+                "stars": 6308
               }
             },
             {
@@ -208,7 +208,7 @@
                 "last_commit": "2025-12-20T15:44:17Z",
                 "owner": "ds4dm",
                 "repo": "ecole",
-                "stars": 374
+                "stars": 376
               }
             },
             {
@@ -266,7 +266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:13:42.947Z",
+    "last_updated": "2026-08-22T10:01:56.367Z",
     "original_repository": "ebrahimpichka/awesome-optimization",
     "original_repository_id": 712233221,
     "original_repository_sha": "ee45310f7d899ee8d550e7c67f6a2068e73adabc",
