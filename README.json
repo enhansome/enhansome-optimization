@@ -60,7 +60,7 @@
                 "last_commit": "2026-08-20T13:32:38Z",
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 13935
+                "stars": 13938
               }
             },
             {
@@ -115,7 +115,7 @@
                 "archived": false,
                 "id": 11110385,
                 "language": "C++",
-                "last_commit": "2026-08-22T04:32:37Z",
+                "last_commit": "2026-08-22T19:56:26Z",
                 "owner": "cvxpy",
                 "repo": "cvxpy",
                 "stars": 6308
@@ -266,7 +266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T10:01:56.367Z",
+    "last_updated": "2026-08-23T10:02:25.703Z",
     "original_repository": "ebrahimpichka/awesome-optimization",
     "original_repository_id": 712233221,
     "original_repository_sha": "ee45310f7d899ee8d550e7c67f6a2068e73adabc",
