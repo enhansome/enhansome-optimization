@@ -39,6 +39,28 @@
           "description": null,
           "node_type": "group",
           "title": "Operations Research"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Clever Algorithms: Nature-Inspired Programming Recipes by Jason Brownlee - GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 455621,
+                "language": "TeX",
+                "last_commit": "2024-12-20T03:55:29Z",
+                "owner": "Jason2Brownlee",
+                "repo": "CleverAlgorithms",
+                "stars": 2115
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Meta-heuristics"
         }
       ],
       "title": "Books and Lecture notes"
@@ -57,7 +79,7 @@
                 "archived": false,
                 "id": 31102092,
                 "language": "C++",
-                "last_commit": "2026-08-24T07:50:28Z",
+                "last_commit": "2026-08-24T14:02:10Z",
                 "owner": "google",
                 "repo": "or-tools",
                 "stars": 13938
@@ -115,7 +137,7 @@
                 "archived": false,
                 "id": 11110385,
                 "language": "C++",
-                "last_commit": "2026-08-24T00:59:44Z",
+                "last_commit": "2026-08-24T11:35:01Z",
                 "owner": "cvxpy",
                 "repo": "cvxpy",
                 "stars": 6308
@@ -133,7 +155,7 @@
                 "last_commit": "2026-08-20T17:33:55Z",
                 "owner": "meta-pytorch",
                 "repo": "botorch",
-                "stars": 3588
+                "stars": 3589
               }
             },
             {
@@ -163,7 +185,7 @@
                 "last_commit": "2026-08-03T18:48:30Z",
                 "owner": "metaopt",
                 "repo": "torchopt",
-                "stars": 636
+                "stars": 637
               }
             },
             {
@@ -266,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:23:17.256Z",
+    "last_updated": "2026-08-24T14:22:29.371Z",
     "original_repository": "ebrahimpichka/awesome-optimization",
     "original_repository_id": 712233221,
     "original_repository_sha": "ee45310f7d899ee8d550e7c67f6a2068e73adabc",
