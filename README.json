@@ -57,7 +57,7 @@
                 "archived": false,
                 "id": 31102092,
                 "language": "C++",
-                "last_commit": "2026-08-20T13:32:38Z",
+                "last_commit": "2026-08-24T07:50:28Z",
                 "owner": "google",
                 "repo": "or-tools",
                 "stars": 13938
@@ -87,7 +87,7 @@
                 "archived": false,
                 "id": 1237904401,
                 "language": "C++",
-                "last_commit": "2026-07-28T16:07:28Z",
+                "last_commit": "2026-08-23T20:49:05Z",
                 "owner": "Axelwickm",
                 "repo": "or-tools-wasm",
                 "stars": 55
@@ -115,7 +115,7 @@
                 "archived": false,
                 "id": 11110385,
                 "language": "C++",
-                "last_commit": "2026-08-22T19:56:26Z",
+                "last_commit": "2026-08-24T00:59:44Z",
                 "owner": "cvxpy",
                 "repo": "cvxpy",
                 "stars": 6308
@@ -148,7 +148,7 @@
                 "last_commit": "2026-08-17T20:29:59Z",
                 "owner": "nnaisense",
                 "repo": "evotorch",
-                "stars": 1143
+                "stars": 1142
               }
             },
             {
@@ -266,7 +266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T10:02:25.703Z",
+    "last_updated": "2026-08-24T10:23:17.256Z",
     "original_repository": "ebrahimpichka/awesome-optimization",
     "original_repository_id": 712233221,
     "original_repository_sha": "ee45310f7d899ee8d550e7c67f6a2068e73adabc",
