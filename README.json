@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 229103855,
                 "language": "HTML",
-                "last_commit": "2026-08-25T01:02:04Z",
+                "last_commit": "2026-08-25T09:21:13Z",
                 "owner": "open-optimization",
                 "repo": "open-optimization-or-book",
                 "stars": 41
@@ -79,10 +79,10 @@
                 "archived": false,
                 "id": 31102092,
                 "language": "C++",
-                "last_commit": "2026-08-24T18:42:30Z",
+                "last_commit": "2026-08-25T08:43:42Z",
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 13938
+                "stars": 13937
               }
             },
             {
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:13:22.584Z",
+    "last_updated": "2026-08-25T10:14:54.907Z",
     "original_repository": "ebrahimpichka/awesome-optimization",
     "original_repository_id": 712233221,
     "original_repository_sha": "ee45310f7d899ee8d550e7c67f6a2068e73adabc",

@@ -276,7 +276,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Tools and Libraries
 
-* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 13,938 | 🐛 121 | 🌐 C++ | 📅 2026-08-24
+* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 13,937 | 🐛 121 | 🌐 C++ | 📅 2026-08-25
 * [**PyOptInterface**](https://github.com/metab0t/PyOptInterface) ⭐ 315 | 🐛 10 | 🌐 C++ | 📅 2026-08-11 - Efficient modeling interface for mathematical optimization in **Python**.
 * [**or-tools-wasm**](https://github.com/Axelwickm/or-tools-wasm) ⭐ 55 | 🐛 2 | 🌐 C++ | 📅 2026-08-23 - Multithreaded Typescript/Wasm build of Google OR-Tools.
 * [**COIN-OR**](https://www.coin-or.org/) | [repository](https://github.com/coin-or/)
