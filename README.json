@@ -79,10 +79,10 @@
                 "archived": false,
                 "id": 31102092,
                 "language": "C++",
-                "last_commit": "2026-08-26T22:06:03Z",
+                "last_commit": "2026-08-27T17:31:22Z",
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 13952
+                "stars": 13956
               }
             },
             {
@@ -140,7 +140,7 @@
                 "last_commit": "2026-08-27T00:44:43Z",
                 "owner": "cvxpy",
                 "repo": "cvxpy",
-                "stars": 6311
+                "stars": 6312
               }
             },
             {
@@ -152,10 +152,10 @@
                 "archived": false,
                 "id": 142940093,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-26T14:10:34Z",
+                "last_commit": "2026-08-27T15:15:51Z",
                 "owner": "meta-pytorch",
                 "repo": "botorch",
-                "stars": 3589
+                "stars": 3590
               }
             },
             {
@@ -170,7 +170,7 @@
                 "last_commit": "2026-08-17T20:29:59Z",
                 "owner": "nnaisense",
                 "repo": "evotorch",
-                "stars": 1142
+                "stars": 1143
               }
             },
             {
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:55:05.475Z",
+    "last_updated": "2026-08-27T20:00:40.075Z",
     "original_repository_info": {
       "archived": false,
       "id": 712233221,
