@@ -54,7 +54,7 @@
                 "last_commit": "2024-12-20T03:55:29Z",
                 "owner": "Jason2Brownlee",
                 "repo": "CleverAlgorithms",
-                "stars": 2115
+                "stars": 2116
               }
             }
           ],
@@ -79,10 +79,10 @@
                 "archived": false,
                 "id": 31102092,
                 "language": "C++",
-                "last_commit": "2026-08-26T08:46:31Z",
+                "last_commit": "2026-08-26T22:06:03Z",
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 13942
+                "stars": 13952
               }
             },
             {
@@ -137,10 +137,10 @@
                 "archived": false,
                 "id": 11110385,
                 "language": "C++",
-                "last_commit": "2026-08-25T03:11:04Z",
+                "last_commit": "2026-08-27T00:44:43Z",
                 "owner": "cvxpy",
                 "repo": "cvxpy",
-                "stars": 6309
+                "stars": 6311
               }
             },
             {
@@ -152,7 +152,7 @@
                 "archived": false,
                 "id": 142940093,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-20T17:33:55Z",
+                "last_commit": "2026-08-26T14:10:34Z",
                 "owner": "meta-pytorch",
                 "repo": "botorch",
                 "stars": 3589
@@ -272,10 +272,10 @@
                 "archived": false,
                 "id": 933123083,
                 "language": "Python",
-                "last_commit": "2026-08-26T10:10:59Z",
+                "last_commit": "2026-08-27T05:20:32Z",
                 "owner": "Yuma-Ichikawa",
                 "repo": "QQA4CO",
-                "stars": 24
+                "stars": 23
               }
             }
           ],
@@ -288,9 +288,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:19:22.650Z",
-    "original_repository": "ebrahimpichka/awesome-optimization",
-    "original_repository_id": 712233221,
+    "last_updated": "2026-08-27T11:55:05.475Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 712233221,
+      "language": null,
+      "last_commit": "2026-05-18T21:03:21Z",
+      "owner": "ebrahimpichka",
+      "repo": "awesome-optimization",
+      "stars": 730
+    },
     "original_repository_sha": "ee45310f7d899ee8d550e7c67f6a2068e73adabc",
     "enhanced_repository": "enhansome/enhansome-optimization",
     "enhanced_repository_description": null,
