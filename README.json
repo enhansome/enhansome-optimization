@@ -18,7 +18,8 @@
                 "owner": "chkwon",
                 "repo": "jpor_codes",
                 "stars": 202
-              }
+              },
+              "first_seen": "2026-08-28T21:00:08.429Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "open-optimization",
                 "repo": "open-optimization-or-book",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T21:00:08.429Z"
             }
           ],
           "description": null,
@@ -54,8 +56,9 @@
                 "last_commit": "2024-12-20T03:55:29Z",
                 "owner": "Jason2Brownlee",
                 "repo": "CleverAlgorithms",
-                "stars": 2116
-              }
+                "stars": 2115
+              },
+              "first_seen": "2026-08-28T21:00:08.429Z"
             }
           ],
           "description": null,
@@ -79,11 +82,12 @@
                 "archived": false,
                 "id": 31102092,
                 "language": "C++",
-                "last_commit": "2026-08-27T17:31:22Z",
+                "last_commit": "2026-08-28T16:10:52Z",
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 13956
-              }
+                "stars": 13962
+              },
+              "first_seen": "2026-08-28T21:00:08.429Z"
             },
             {
               "node_type": "item",
@@ -98,7 +102,8 @@
                 "owner": "metab0t",
                 "repo": "PyOptInterface",
                 "stars": 315
-              }
+              },
+              "first_seen": "2026-08-28T21:00:08.429Z"
             },
             {
               "node_type": "item",
@@ -113,7 +118,8 @@
                 "owner": "Axelwickm",
                 "repo": "or-tools-wasm",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T21:00:08.429Z"
             }
           ],
           "description": null,
@@ -140,8 +146,9 @@
                 "last_commit": "2026-08-27T00:44:43Z",
                 "owner": "cvxpy",
                 "repo": "cvxpy",
-                "stars": 6312
-              }
+                "stars": 6314
+              },
+              "first_seen": "2026-08-28T21:00:08.429Z"
             },
             {
               "node_type": "item",
@@ -155,8 +162,9 @@
                 "last_commit": "2026-08-27T15:15:51Z",
                 "owner": "meta-pytorch",
                 "repo": "botorch",
-                "stars": 3590
-              }
+                "stars": 3589
+              },
+              "first_seen": "2026-08-28T21:00:08.429Z"
             },
             {
               "node_type": "item",
@@ -171,7 +179,8 @@
                 "owner": "nnaisense",
                 "repo": "evotorch",
                 "stars": 1143
-              }
+              },
+              "first_seen": "2026-08-28T21:00:08.429Z"
             },
             {
               "node_type": "item",
@@ -186,7 +195,8 @@
                 "owner": "metaopt",
                 "repo": "torchopt",
                 "stars": 637
-              }
+              },
+              "first_seen": "2026-08-28T21:00:08.429Z"
             },
             {
               "node_type": "item",
@@ -201,7 +211,8 @@
                 "owner": "hubbs5",
                 "repo": "or-gym",
                 "stars": 453
-              }
+              },
+              "first_seen": "2026-08-28T21:00:08.429Z"
             },
             {
               "node_type": "item",
@@ -216,7 +227,8 @@
                 "owner": "jvkersch",
                 "repo": "pyconcorde",
                 "stars": 397
-              }
+              },
+              "first_seen": "2026-08-28T21:00:08.429Z"
             },
             {
               "node_type": "item",
@@ -231,7 +243,8 @@
                 "owner": "ds4dm",
                 "repo": "ecole",
                 "stars": 376
-              }
+              },
+              "first_seen": "2026-08-28T21:00:08.429Z"
             },
             {
               "node_type": "item",
@@ -246,7 +259,8 @@
                 "owner": "ANL-CEEESA",
                 "repo": "MIPLearn",
                 "stars": 197
-              }
+              },
+              "first_seen": "2026-08-28T21:00:08.429Z"
             },
             {
               "node_type": "item",
@@ -261,7 +275,8 @@
                 "owner": "benalexkeen",
                 "repo": "Introduction-to-linear-programming",
                 "stars": 182
-              }
+              },
+              "first_seen": "2026-08-28T21:00:08.429Z"
             },
             {
               "node_type": "item",
@@ -272,11 +287,12 @@
                 "archived": false,
                 "id": 933123083,
                 "language": "Python",
-                "last_commit": "2026-08-27T05:20:32Z",
+                "last_commit": "2026-08-28T04:45:45Z",
                 "owner": "Yuma-Ichikawa",
                 "repo": "QQA4CO",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T21:00:08.429Z"
             }
           ],
           "description": null,
@@ -288,7 +304,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:00:40.075Z",
+    "last_updated": "2026-08-28T21:00:08.429Z",
     "original_repository_info": {
       "archived": false,
       "id": 712233221,
@@ -296,7 +312,7 @@
       "last_commit": "2026-05-18T21:03:21Z",
       "owner": "ebrahimpichka",
       "repo": "awesome-optimization",
-      "stars": 730
+      "stars": 729
     },
     "original_repository_sha": "ee45310f7d899ee8d550e7c67f6a2068e73adabc",
     "enhanced_repository": "enhansome/enhansome-optimization",
