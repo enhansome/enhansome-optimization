@@ -110,7 +110,7 @@
                 "open_issues": 114,
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 13963,
+                "stars": 13965,
                 "topics": [
                   "combinatorial-optimization",
                   "linear-programming",
@@ -336,7 +336,7 @@
                 "open_issues": 11,
                 "owner": "hubbs5",
                 "repo": "or-gym",
-                "stars": 453,
+                "stars": 454,
                 "topics": [
                   "deep-reinforcement-learning",
                   "operations-research",
@@ -386,7 +386,7 @@
                 "open_issues": 60,
                 "owner": "ds4dm",
                 "repo": "ecole",
-                "stars": 376,
+                "stars": 377,
                 "topics": [
                   "combinatorial-optimization",
                   "gym",
@@ -451,7 +451,7 @@
                 "id": 933123083,
                 "language": "Python",
                 "license": "BSD-3-Clause-Clear",
-                "last_commit": "2026-08-29T02:20:08Z",
+                "last_commit": "2026-08-29T13:33:02Z",
                 "open_issues": 0,
                 "owner": "Yuma-Ichikawa",
                 "repo": "QQA4CO",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:38:14.955Z",
+    "last_updated": "2026-08-29T14:42:26.089Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.",
