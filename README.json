@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codes for the book \"Julia Programming for Operations Research\"",
+                "homepage": "https://www.chkwon.net/julia",
                 "id": 55119351,
                 "language": "Julia",
+                "license": null,
                 "last_commit": "2021-03-10T21:41:28Z",
+                "open_issues": 1,
                 "owner": "chkwon",
                 "repo": "jpor_codes",
-                "stars": 202
+                "stars": 202,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mathematical Programming and Operations Research: Modeling, Algorithms, and Complexity. Examples in Python and Excel. Edited by Robert Hildebrand",
+                "homepage": null,
                 "id": 229103855,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-25T09:21:13Z",
+                "open_issues": 1,
                 "owner": "open-optimization",
                 "repo": "open-optimization-or-book",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
             }
@@ -51,12 +61,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clever Algorithms: Nature-Inspired Programming Recipes",
+                "homepage": "https://CleverAlgorithms.com",
                 "id": 455621,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2024-12-20T03:55:29Z",
+                "open_issues": 32,
                 "owner": "Jason2Brownlee",
                 "repo": "CleverAlgorithms",
-                "stars": 2115
+                "stars": 2115,
+                "topics": [
+                  "algorithms",
+                  "book",
+                  "computational-intelligence",
+                  "machine-learning-algorithms",
+                  "optimization-algorithms"
+                ]
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
             }
@@ -80,12 +101,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google's Operations Research tools:",
+                "homepage": "https://developers.google.com/optimization/",
                 "id": 31102092,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T16:10:52Z",
+                "open_issues": 114,
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 13962
+                "stars": 13963,
+                "topics": [
+                  "combinatorial-optimization",
+                  "linear-programming",
+                  "operations-research",
+                  "optimization",
+                  "or-tools"
+                ]
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
             },
@@ -96,12 +128,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficient modeling interface for mathematical optimization in Python",
+                "homepage": "https://metab0t.github.io/PyOptInterface/",
                 "id": 653217716,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-11T10:33:17Z",
+                "open_issues": 10,
                 "owner": "metab0t",
                 "repo": "PyOptInterface",
-                "stars": 315
+                "stars": 315,
+                "topics": [
+                  "conic-programs",
+                  "linear-programming",
+                  "mathematical-modelling",
+                  "mathematical-programming",
+                  "mixed-integer-programming",
+                  "modeling-language",
+                  "optimization",
+                  "python",
+                  "quadratic-programming"
+                ]
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
             },
@@ -112,12 +159,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Running Google OR-Tools multithreaded in browser through wasm.",
+                "homepage": "https://axelwickman.com/or-tools-wasm",
                 "id": 1237904401,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-23T20:49:05Z",
+                "open_issues": 2,
                 "owner": "Axelwickm",
                 "repo": "or-tools-wasm",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "constraint-programming",
+                  "integer-programming",
+                  "javascript",
+                  "linear-programming",
+                  "mathematical-optimization",
+                  "operations-research",
+                  "optimization",
+                  "optimization-algorithms",
+                  "routing",
+                  "scheduling",
+                  "solver",
+                  "wasm",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
             }
@@ -141,12 +207,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python-embedded modeling language for convex optimization problems.",
+                "homepage": "https://www.cvxpy.org",
                 "id": 11110385,
                 "language": "C++",
-                "last_commit": "2026-08-27T00:44:43Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:52:11Z",
+                "open_issues": 193,
                 "owner": "cvxpy",
                 "repo": "cvxpy",
-                "stars": 6314
+                "stars": 6314,
+                "topics": [
+                  "convex-optimization",
+                  "cvxpy",
+                  "mathematical-optimization",
+                  "modeling-language",
+                  "numerical-optimization",
+                  "optimization",
+                  "optimization-modeling",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
             },
@@ -157,12 +237,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bayesian optimization in PyTorch",
+                "homepage": "https://botorch.org/",
                 "id": 142940093,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-08-27T15:15:51Z",
+                "open_issues": 94,
                 "owner": "meta-pytorch",
                 "repo": "botorch",
-                "stars": 3589
+                "stars": 3589,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
             },
@@ -173,12 +258,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE.",
+                "homepage": "https://evotorch.ai",
                 "id": 522655946,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-17T20:29:59Z",
+                "open_issues": 19,
                 "owner": "nnaisense",
                 "repo": "evotorch",
-                "stars": 1143
+                "stars": 1143,
+                "topics": [
+                  "artificial-intelligence",
+                  "distributed",
+                  "evolutionary-algorithms",
+                  "evolutionary-computation",
+                  "gpu",
+                  "neural-networks",
+                  "neuroevolution",
+                  "optimization",
+                  "optimization-algorithms",
+                  "python",
+                  "pytorch",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
             },
@@ -189,12 +292,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TorchOpt is an efficient library for differentiable optimization built upon PyTorch.",
+                "homepage": "https://torchopt.readthedocs.io",
                 "id": 479489097,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-03T18:48:30Z",
+                "open_issues": 20,
                 "owner": "metaopt",
                 "repo": "torchopt",
-                "stars": 637
+                "stars": 637,
+                "topics": [
+                  "automatic-differentiation",
+                  "bilevel-optimization",
+                  "deep-learning",
+                  "differentiable-optimization",
+                  "differentiable-programming",
+                  "functional-programming",
+                  "implicit-differentiation",
+                  "meta-learning",
+                  "meta-reinforcement-learning",
+                  "meta-rl",
+                  "optimization",
+                  "optimizer",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
             },
@@ -205,12 +327,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Environments for OR and RL Research",
+                "homepage": null,
                 "id": 241932585,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-12T09:23:58Z",
+                "open_issues": 11,
                 "owner": "hubbs5",
                 "repo": "or-gym",
-                "stars": 453
+                "stars": 453,
+                "topics": [
+                  "deep-reinforcement-learning",
+                  "operations-research",
+                  "optimization",
+                  "reinforcement-learning",
+                  "supply-chain",
+                  "supply-chain-management",
+                  "vehicle-routing-problem"
+                ]
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
             },
@@ -221,12 +356,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python wrapper around the Concorde TSP solver",
+                "homepage": null,
                 "id": 87963232,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-03-09T07:44:40Z",
+                "open_issues": 17,
                 "owner": "jvkersch",
                 "repo": "pyconcorde",
-                "stars": 397
+                "stars": 397,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
             },
@@ -237,12 +377,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extensible Combinatorial Optimization Learning Environments",
+                "homepage": "https://www.ecole.ai",
                 "id": 216036405,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-12-20T15:44:17Z",
+                "open_issues": 60,
                 "owner": "ds4dm",
                 "repo": "ecole",
-                "stars": 376
+                "stars": 376,
+                "topics": [
+                  "combinatorial-optimization",
+                  "gym",
+                  "markov-decision-processes",
+                  "ml",
+                  "scip"
+                ]
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
             },
@@ -253,12 +404,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Framework for solving discrete optimization problems using a combination of Mixed-Integer Linear Programming (MIP) and Machine Learning (ML)",
+                "homepage": null,
                 "id": 235636110,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T15:47:20Z",
+                "open_issues": 3,
                 "owner": "ANL-CEEESA",
                 "repo": "MIPLearn",
-                "stars": 197
+                "stars": 197,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
             },
@@ -269,12 +425,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Introduction to Linear Programming with Python",
+                "homepage": null,
                 "id": 54974138,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2020-07-15T13:30:10Z",
+                "open_issues": 2,
                 "owner": "benalexkeen",
                 "repo": "Introduction-to-linear-programming",
-                "stars": 182
+                "stars": 182,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
             },
@@ -285,12 +446,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quasi-Quantum Annealing (QQA): a GPU solver for combinatorial & spin-glass optimisation — PyTorch library + live Streamlit dashboard. ICLR 2025.",
+                "homepage": "https://yuma-ichikawa.github.io/QQA4CO/",
                 "id": 933123083,
                 "language": "Python",
-                "last_commit": "2026-08-28T04:45:45Z",
+                "license": "BSD-3-Clause-Clear",
+                "last_commit": "2026-08-29T02:20:08Z",
+                "open_issues": 0,
                 "owner": "Yuma-Ichikawa",
                 "repo": "QQA4CO",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "combinatorial-optimization",
+                  "heuristics",
+                  "iclr2025",
+                  "ising-model",
+                  "optimization",
+                  "optimization-algorithms",
+                  "optimization-methods",
+                  "quantum-annealing",
+                  "quasi-quantum-annealing",
+                  "qubo",
+                  "simulated-annealing",
+                  "spin-glass"
+                ]
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
             }
@@ -304,15 +483,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:00:08.429Z",
+    "last_updated": "2026-08-29T04:38:14.955Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.",
+      "homepage": null,
       "id": 712233221,
       "language": null,
+      "license": null,
       "last_commit": "2026-05-18T21:03:21Z",
+      "open_issues": 2,
       "owner": "ebrahimpichka",
       "repo": "awesome-optimization",
-      "stars": 729
+      "stars": 729,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "combinatorial-optimization",
+        "convex-optimization",
+        "discrete-optimization",
+        "integer-linear-programming",
+        "integer-programming",
+        "linear-optimization",
+        "linear-programming",
+        "mathematical-modelling",
+        "mathematical-optimization",
+        "mathematical-programming",
+        "operations-research",
+        "optimization",
+        "stochastic-optimization"
+      ]
     },
     "original_repository_sha": "ee45310f7d899ee8d550e7c67f6a2068e73adabc",
     "enhanced_repository": "enhansome/enhansome-optimization",
