@@ -276,7 +276,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Tools and Libraries
 
-* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 13,971 | 🐛 115 | 🌐 C++ | 📅 2026-08-31
+* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 13,974 | 🐛 114 | 🌐 C++ | 📅 2026-09-01
 * [**PyOptInterface**](https://github.com/metab0t/PyOptInterface) ⭐ 315 | 🐛 10 | 🌐 C++ | 📅 2026-08-11 - Efficient modeling interface for mathematical optimization in **Python**.
 * [**or-tools-wasm**](https://github.com/Axelwickm/or-tools-wasm) ⭐ 57 | 🐛 2 | 🌐 C++ | 📅 2026-08-31 - Multithreaded Typescript/Wasm build of Google OR-Tools.
 * [**COIN-OR**](https://www.coin-or.org/) | [repository](https://github.com/coin-or/)
@@ -313,11 +313,11 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Code Repositories
 
-* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,315 | 🐛 193 | 🌐 C++ | 📅 2026-08-31:\
+* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,316 | 🐛 192 | 🌐 C++ | 📅 2026-08-31:\
   A Python-embedded modeling language for convex optimization problems.
 * [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,591 | 🐛 94 | 🌐 Jupyter Notebook | 📅 2026-08-27:\
   Bayesian optimization in PyTorch
-* [EvoTorch](https://github.com/nnaisense/evotorch) ⭐ 1,145 | 🐛 19 | 🌐 Python | 📅 2026-08-17:\
+* [EvoTorch](https://github.com/nnaisense/evotorch) ⭐ 1,145 | 🐛 19 | 🌐 Python | 📅 2026-08-31:\
   Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE.
 * [TorchOpt](https://github.com/metaopt/torchopt) ⭐ 637 | 🐛 20 | 🌐 Python | 📅 2026-08-03:\
   efficient library for differentiable optimization built upon PyTorch.
@@ -358,4 +358,4 @@ Thank you for your contributions to making this repository a valuable resource f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
