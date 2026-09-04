@@ -106,11 +106,11 @@
                 "id": 31102092,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T05:00:49Z",
-                "open_issues": 116,
+                "last_commit": "2026-09-04T13:41:48Z",
+                "open_issues": 118,
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 13986,
+                "stars": 13992,
                 "topics": [
                   "combinatorial-optimization",
                   "linear-programming",
@@ -137,7 +137,7 @@
                 "open_issues": 10,
                 "owner": "metab0t",
                 "repo": "PyOptInterface",
-                "stars": 316,
+                "stars": 317,
                 "topics": [
                   "conic-programs",
                   "linear-programming",
@@ -216,7 +216,7 @@
                 "open_issues": 195,
                 "owner": "cvxpy",
                 "repo": "cvxpy",
-                "stars": 6318,
+                "stars": 6319,
                 "topics": [
                   "convex-optimization",
                   "cvxpy",
@@ -242,7 +242,7 @@
                 "id": 142940093,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-08-27T15:15:51Z",
+                "last_commit": "2026-09-03T19:48:40Z",
                 "open_issues": 94,
                 "owner": "meta-pytorch",
                 "repo": "botorch",
@@ -267,7 +267,7 @@
                 "open_issues": 19,
                 "owner": "nnaisense",
                 "repo": "evotorch",
-                "stars": 1144,
+                "stars": 1146,
                 "topics": [
                   "artificial-intelligence",
                   "distributed",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T13:54:57.061Z",
+    "last_updated": "2026-09-04T13:48:39.911Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.",
@@ -495,7 +495,7 @@
       "open_issues": 2,
       "owner": "ebrahimpichka",
       "repo": "awesome-optimization",
-      "stars": 734,
+      "stars": 737,
       "topics": [
         "awesome",
         "awesome-list",
