@@ -106,11 +106,11 @@
                 "id": 31102092,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T16:43:46Z",
+                "last_commit": "2026-09-06T08:39:14Z",
                 "open_issues": 118,
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 13997,
+                "stars": 13998,
                 "topics": [
                   "combinatorial-optimization",
                   "linear-programming",
@@ -212,11 +212,11 @@
                 "id": 11110385,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T00:26:12Z",
-                "open_issues": 196,
+                "last_commit": "2026-09-05T23:05:05Z",
+                "open_issues": 203,
                 "owner": "cvxpy",
                 "repo": "cvxpy",
-                "stars": 6321,
+                "stars": 6322,
                 "topics": [
                   "convex-optimization",
                   "cvxpy",
@@ -451,8 +451,8 @@
                 "id": 933123083,
                 "language": "Python",
                 "license": "BSD-3-Clause-Clear",
-                "last_commit": "2026-08-29T14:57:29Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-06T09:41:12Z",
+                "open_issues": 1,
                 "owner": "Yuma-Ichikawa",
                 "repo": "QQA4CO",
                 "stars": 23,
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:03:31.821Z",
+    "last_updated": "2026-09-06T13:11:14.148Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.",
@@ -495,7 +495,7 @@
       "open_issues": 2,
       "owner": "ebrahimpichka",
       "repo": "awesome-optimization",
-      "stars": 737,
+      "stars": 738,
       "topics": [
         "awesome",
         "awesome-list",
