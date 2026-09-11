@@ -276,7 +276,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Tools and Libraries
 
-* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 14,028 | 🐛 124 | 🌐 C++ | 📅 2026-09-10
+* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 14,028 | 🐛 123 | 🌐 C++ | 📅 2026-09-11
 * [**PyOptInterface**](https://github.com/metab0t/PyOptInterface) ⭐ 317 | 🐛 10 | 🌐 C++ | 📅 2026-09-08 - Efficient modeling interface for mathematical optimization in **Python**.
 * [**or-tools-wasm**](https://github.com/Axelwickm/or-tools-wasm) ⭐ 58 | 🐛 2 | 🌐 C++ | 📅 2026-09-07 - Multithreaded Typescript/Wasm build of Google OR-Tools.
 * [**COIN-OR**](https://www.coin-or.org/) | [repository](https://github.com/coin-or/)
@@ -313,7 +313,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Code Repositories
 
-* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,329 | 🐛 194 | 🌐 C++ | 📅 2026-09-09:\
+* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,330 | 🐛 188 | 🌐 C++ | 📅 2026-09-11:\
   A Python-embedded modeling language for convex optimization problems.
 * [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,593 | 🐛 93 | 🌐 Jupyter Notebook | 📅 2026-09-08:\
   Bayesian optimization in PyTorch
@@ -358,4 +358,4 @@ Thank you for your contributions to making this repository a valuable resource f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
