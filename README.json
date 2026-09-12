@@ -42,7 +42,7 @@
                 "open_issues": 1,
                 "owner": "open-optimization",
                 "repo": "open-optimization-or-book",
-                "stars": 41,
+                "stars": 42,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
@@ -106,11 +106,11 @@
                 "id": 31102092,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T13:34:49Z",
-                "open_issues": 123,
+                "last_commit": "2026-09-12T08:16:53Z",
+                "open_issues": 124,
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 14028,
+                "stars": 14031,
                 "topics": [
                   "combinatorial-optimization",
                   "linear-programming",
@@ -168,7 +168,7 @@
                 "open_issues": 2,
                 "owner": "Axelwickm",
                 "repo": "or-tools-wasm",
-                "stars": 58,
+                "stars": 59,
                 "topics": [
                   "constraint-programming",
                   "integer-programming",
@@ -212,11 +212,11 @@
                 "id": 11110385,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T08:55:55Z",
-                "open_issues": 188,
+                "last_commit": "2026-09-11T18:00:47Z",
+                "open_issues": 182,
                 "owner": "cvxpy",
                 "repo": "cvxpy",
-                "stars": 6330,
+                "stars": 6332,
                 "topics": [
                   "convex-optimization",
                   "cvxpy",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T13:51:29.646Z",
+    "last_updated": "2026-09-12T13:10:23.177Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.",
