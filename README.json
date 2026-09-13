@@ -106,11 +106,11 @@
                 "id": 31102092,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T08:16:53Z",
+                "last_commit": "2026-09-12T19:37:30Z",
                 "open_issues": 124,
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 14031,
+                "stars": 14035,
                 "topics": [
                   "combinatorial-optimization",
                   "linear-programming",
@@ -216,7 +216,7 @@
                 "open_issues": 182,
                 "owner": "cvxpy",
                 "repo": "cvxpy",
-                "stars": 6332,
+                "stars": 6333,
                 "topics": [
                   "convex-optimization",
                   "cvxpy",
@@ -246,7 +246,7 @@
                 "open_issues": 93,
                 "owner": "meta-pytorch",
                 "repo": "botorch",
-                "stars": 3593,
+                "stars": 3595,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
@@ -451,8 +451,8 @@
                 "id": 933123083,
                 "language": "Python",
                 "license": "BSD-3-Clause-Clear",
-                "last_commit": "2026-09-06T09:41:12Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-13T02:23:20Z",
+                "open_issues": 2,
                 "owner": "Yuma-Ichikawa",
                 "repo": "QQA4CO",
                 "stars": 23,
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:10:23.177Z",
+    "last_updated": "2026-09-13T13:55:39.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.",
@@ -495,7 +495,7 @@
       "open_issues": 2,
       "owner": "ebrahimpichka",
       "repo": "awesome-optimization",
-      "stars": 739,
+      "stars": 740,
       "topics": [
         "awesome",
         "awesome-list",
