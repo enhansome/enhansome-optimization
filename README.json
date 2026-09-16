@@ -106,11 +106,11 @@
                 "id": 31102092,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T13:32:40Z",
+                "last_commit": "2026-09-16T12:48:01Z",
                 "open_issues": 122,
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 14048,
+                "stars": 14053,
                 "topics": [
                   "combinatorial-optimization",
                   "linear-programming",
@@ -212,11 +212,11 @@
                 "id": 11110385,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T11:34:36Z",
-                "open_issues": 184,
+                "last_commit": "2026-09-16T07:30:38Z",
+                "open_issues": 185,
                 "owner": "cvxpy",
                 "repo": "cvxpy",
-                "stars": 6334,
+                "stars": 6335,
                 "topics": [
                   "convex-optimization",
                   "cvxpy",
@@ -264,7 +264,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-31T20:17:09Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "nnaisense",
                 "repo": "evotorch",
                 "stars": 1147,
@@ -301,7 +301,7 @@
                 "open_issues": 20,
                 "owner": "metaopt",
                 "repo": "torchopt",
-                "stars": 637,
+                "stars": 638,
                 "topics": [
                   "automatic-differentiation",
                   "bilevel-optimization",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T14:29:25.547Z",
+    "last_updated": "2026-09-16T14:23:06.017Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.",
