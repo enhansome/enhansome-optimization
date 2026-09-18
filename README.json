@@ -106,11 +106,11 @@
                 "id": 31102092,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T13:06:37Z",
-                "open_issues": 121,
+                "last_commit": "2026-09-18T13:30:10Z",
+                "open_issues": 123,
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 14055,
+                "stars": 14063,
                 "topics": [
                   "combinatorial-optimization",
                   "linear-programming",
@@ -212,11 +212,11 @@
                 "id": 11110385,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T14:28:09Z",
-                "open_issues": 187,
+                "last_commit": "2026-09-17T14:35:02Z",
+                "open_issues": 185,
                 "owner": "cvxpy",
                 "repo": "cvxpy",
-                "stars": 6335,
+                "stars": 6338,
                 "topics": [
                   "convex-optimization",
                   "cvxpy",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T14:28:30.554Z",
+    "last_updated": "2026-09-18T13:53:50.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.",
