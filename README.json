@@ -70,7 +70,7 @@
                 "open_issues": 32,
                 "owner": "Jason2Brownlee",
                 "repo": "CleverAlgorithms",
-                "stars": 2118,
+                "stars": 2119,
                 "topics": [
                   "algorithms",
                   "book",
@@ -106,11 +106,11 @@
                 "id": 31102092,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T14:20:41Z",
+                "last_commit": "2026-09-24T14:21:17Z",
                 "open_issues": 124,
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 14089,
+                "stars": 14096,
                 "topics": [
                   "combinatorial-optimization",
                   "linear-programming",
@@ -168,7 +168,7 @@
                 "open_issues": 2,
                 "owner": "Axelwickm",
                 "repo": "or-tools-wasm",
-                "stars": 61,
+                "stars": 62,
                 "topics": [
                   "constraint-programming",
                   "integer-programming",
@@ -213,10 +213,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-23T06:39:05Z",
-                "open_issues": 181,
+                "open_issues": 182,
                 "owner": "cvxpy",
                 "repo": "cvxpy",
-                "stars": 6345,
+                "stars": 6344,
                 "topics": [
                   "convex-optimization",
                   "cvxpy",
@@ -242,8 +242,8 @@
                 "id": 142940093,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-08T21:21:51Z",
-                "open_issues": 95,
+                "last_commit": "2026-09-23T18:01:54Z",
+                "open_issues": 94,
                 "owner": "meta-pytorch",
                 "repo": "botorch",
                 "stars": 3601,
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T14:27:50.444Z",
+    "last_updated": "2026-09-24T14:27:45.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.",
