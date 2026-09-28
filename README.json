@@ -106,11 +106,11 @@
                 "id": 31102092,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T12:28:36Z",
-                "open_issues": 127,
+                "last_commit": "2026-09-28T15:56:48Z",
+                "open_issues": 126,
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 14110,
+                "stars": 14115,
                 "topics": [
                   "combinatorial-optimization",
                   "linear-programming",
@@ -137,7 +137,7 @@
                 "open_issues": 10,
                 "owner": "metab0t",
                 "repo": "PyOptInterface",
-                "stars": 317,
+                "stars": 318,
                 "topics": [
                   "conic-programs",
                   "linear-programming",
@@ -212,11 +212,11 @@
                 "id": 11110385,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T18:37:48Z",
+                "last_commit": "2026-09-28T11:34:23Z",
                 "open_issues": 182,
                 "owner": "cvxpy",
                 "repo": "cvxpy",
-                "stars": 6347,
+                "stars": 6349,
                 "topics": [
                   "convex-optimization",
                   "cvxpy",
@@ -243,7 +243,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-09-23T18:01:54Z",
-                "open_issues": 98,
+                "open_issues": 99,
                 "owner": "meta-pytorch",
                 "repo": "botorch",
                 "stars": 3604,
@@ -301,7 +301,7 @@
                 "open_issues": 20,
                 "owner": "metaopt",
                 "repo": "torchopt",
-                "stars": 638,
+                "stars": 637,
                 "topics": [
                   "automatic-differentiation",
                   "bilevel-optimization",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T14:50:15.434Z",
+    "last_updated": "2026-09-28T17:49:47.100Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.",
