@@ -313,9 +313,9 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Code Repositories
 
-* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,355 | 🐛 189 | 🌐 C++ | 📅 2026-10-02:\
+* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,356 | 🐛 189 | 🌐 C++ | 📅 2026-10-02:\
   A Python-embedded modeling language for convex optimization problems.
-* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,608 | 🐛 94 | 🌐 Jupyter Notebook | 📅 2026-10-02:\
+* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,608 | 🐛 96 | 🌐 Jupyter Notebook | 📅 2026-10-02:\
   Bayesian optimization in PyTorch
 * [EvoTorch](https://github.com/nnaisense/evotorch) ⭐ 1,149 | 🐛 20 | 🌐 Python | 📅 2026-09-28:\
   Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE.
