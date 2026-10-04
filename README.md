@@ -276,7 +276,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Tools and Libraries
 
-* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 14,139 | 🐛 123 | 🌐 C++ | 📅 2026-10-02
+* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 14,146 | 🐛 125 | 🌐 C++ | 📅 2026-10-04
 * [**PyOptInterface**](https://github.com/metab0t/PyOptInterface) ⭐ 318 | 🐛 10 | 🌐 C++ | 📅 2026-09-08 - Efficient modeling interface for mathematical optimization in **Python**.
 * [**or-tools-wasm**](https://github.com/Axelwickm/or-tools-wasm) ⭐ 65 | 🐛 1 | 🌐 C++ | 📅 2026-09-27 - Multithreaded Typescript/Wasm build of Google OR-Tools.
 * [**COIN-OR**](https://www.coin-or.org/) | [repository](https://github.com/coin-or/)
@@ -313,7 +313,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Code Repositories
 
-* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,356 | 🐛 189 | 🌐 C++ | 📅 2026-10-02:\
+* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,356 | 🐛 190 | 🌐 C++ | 📅 2026-10-02:\
   A Python-embedded modeling language for convex optimization problems.
 * [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,608 | 🐛 96 | 🌐 Jupyter Notebook | 📅 2026-10-02:\
   Bayesian optimization in PyTorch
@@ -331,7 +331,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
   Framework for solving discrete optimization problems using a combination of Mixed-Integer Linear Programming (MIP) and Machine Learning (ML)
 * [Introduction to Linear Programming with Python](https://github.com/benalexkeen/Introduction-to-linear-programming) ⭐ 182 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2020-07-15:\
   Introduction to Linear Programming with Python
-* [qqa](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 6 | 🌐 Python | 📅 2026-09-27:\
+* [qqa](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 8 | 🌐 Python | 📅 2026-10-04:\
   GPU-parallel **Quasi-Quantum Annealing** toolkit for QUBO and Ising combinatorial optimisation in PyTorch, with PI-GNN / CPRA neural backends, a Simulated Annealing baseline, a 17-class problem catalogue and a Streamlit dashboard. Released on PyPI as `qqa`.
 * [Open Optimization](https://github.com/open-optimization):\
   a platform for sharing and collaborating on open educational resources for optimization related courses.
@@ -358,4 +358,4 @@ Thank you for your contributions to making this repository a valuable resource f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
