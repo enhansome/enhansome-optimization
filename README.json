@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "chkwon",
                 "repo": "jpor_codes",
-                "stars": 202,
+                "stars": 203,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
@@ -42,7 +42,7 @@
                 "open_issues": 1,
                 "owner": "open-optimization",
                 "repo": "open-optimization-or-book",
-                "stars": 42,
+                "stars": 43,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
@@ -106,11 +106,11 @@
                 "id": 31102092,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T12:48:03Z",
-                "open_issues": 125,
+                "last_commit": "2026-10-05T16:51:15Z",
+                "open_issues": 126,
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 14146,
+                "stars": 14149,
                 "topics": [
                   "combinatorial-optimization",
                   "linear-programming",
@@ -134,7 +134,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-08T10:33:24Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "metab0t",
                 "repo": "PyOptInterface",
                 "stars": 318,
@@ -164,7 +164,7 @@
                 "id": 1237904401,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T08:18:11Z",
+                "last_commit": "2026-10-04T15:30:15Z",
                 "open_issues": 1,
                 "owner": "Axelwickm",
                 "repo": "or-tools-wasm",
@@ -212,11 +212,11 @@
                 "id": 11110385,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T10:08:42Z",
-                "open_issues": 190,
+                "last_commit": "2026-10-05T17:10:51Z",
+                "open_issues": 184,
                 "owner": "cvxpy",
                 "repo": "cvxpy",
-                "stars": 6356,
+                "stars": 6359,
                 "topics": [
                   "convex-optimization",
                   "cvxpy",
@@ -246,7 +246,7 @@
                 "open_issues": 96,
                 "owner": "meta-pytorch",
                 "repo": "botorch",
-                "stars": 3608,
+                "stars": 3609,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T14:59:30.648Z",
+    "last_updated": "2026-10-05T18:51:56.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.",
@@ -492,10 +492,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-05-18T21:03:21Z",
-      "open_issues": 2,
+      "open_issues": 5,
       "owner": "ebrahimpichka",
       "repo": "awesome-optimization",
-      "stars": 745,
+      "stars": 746,
       "topics": [
         "awesome",
         "awesome-list",

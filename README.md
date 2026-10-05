@@ -191,8 +191,8 @@ This list tries to cover vast topics in math. opt. i.e. discrete and combinatori
 
 ### Operations Research
 
-* *Julia Programming for Operations Research* by Changhyun Kwon - [PDF](https://juliabook.chkwon.net/book) - [code](https://github.com/chkwon/jpor_codes) ⭐ 202 | 🐛 1 | 🌐 Julia | 📅 2021-03-10
-* *Mathematical Programming and Operations Research: Modeling, Algorithms, and Complexity. Examples in Python and Julia*. Edited by Robert Hildebrand - [PDF](https://github.com/open-optimization/open-optimization-or-book/blob/master/MathematicalProgrammingandOperationsResearch.pdf) ⭐ 42 | 🐛 1 | 🌐 HTML | 📅 2026-09-14
+* *Julia Programming for Operations Research* by Changhyun Kwon - [PDF](https://juliabook.chkwon.net/book) - [code](https://github.com/chkwon/jpor_codes) ⭐ 203 | 🐛 1 | 🌐 Julia | 📅 2021-03-10
+* *Mathematical Programming and Operations Research: Modeling, Algorithms, and Complexity. Examples in Python and Julia*. Edited by Robert Hildebrand - [PDF](https://github.com/open-optimization/open-optimization-or-book/blob/master/MathematicalProgrammingandOperationsResearch.pdf) ⭐ 43 | 🐛 1 | 🌐 HTML | 📅 2026-09-14
 * *Operations Research An Introduction* by Hamdy A. Taha - [Pearson](https://www.pearson.com/en-us/subject-catalog/p/operations-research-an-introduction/P200000003221)
 * *Introduction to Operations Research* by Frederick Hillier and Gerald Lieberman - [McGraw Hill](https://www.mheducation.com/highered/product/introduction-operations-research-hillier-lieberman/M9781259872990.html)
 * *A First Course in Linear Optimization* by Jon Lee - [PDF](https://www.solvermax.com/downloads/lee-linearoptimization4.pdf)
@@ -276,9 +276,9 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Tools and Libraries
 
-* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 14,146 | 🐛 125 | 🌐 C++ | 📅 2026-10-04
-* [**PyOptInterface**](https://github.com/metab0t/PyOptInterface) ⭐ 318 | 🐛 10 | 🌐 C++ | 📅 2026-09-08 - Efficient modeling interface for mathematical optimization in **Python**.
-* [**or-tools-wasm**](https://github.com/Axelwickm/or-tools-wasm) ⭐ 65 | 🐛 1 | 🌐 C++ | 📅 2026-09-27 - Multithreaded Typescript/Wasm build of Google OR-Tools.
+* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 14,149 | 🐛 126 | 🌐 C++ | 📅 2026-10-05
+* [**PyOptInterface**](https://github.com/metab0t/PyOptInterface) ⭐ 318 | 🐛 11 | 🌐 C++ | 📅 2026-09-08 - Efficient modeling interface for mathematical optimization in **Python**.
+* [**or-tools-wasm**](https://github.com/Axelwickm/or-tools-wasm) ⭐ 65 | 🐛 1 | 🌐 C++ | 📅 2026-10-04 - Multithreaded Typescript/Wasm build of Google OR-Tools.
 * [**COIN-OR**](https://www.coin-or.org/) | [repository](https://github.com/coin-or/)
 * [**MiniZinc**](https://www.minizinc.org/) - Constraint modeling language.
 * [**GAMS**](https://www.gams.com/) - High-level modeling system.
@@ -313,9 +313,9 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Code Repositories
 
-* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,356 | 🐛 190 | 🌐 C++ | 📅 2026-10-02:\
+* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,359 | 🐛 184 | 🌐 C++ | 📅 2026-10-05:\
   A Python-embedded modeling language for convex optimization problems.
-* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,608 | 🐛 96 | 🌐 Jupyter Notebook | 📅 2026-10-02:\
+* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,609 | 🐛 96 | 🌐 Jupyter Notebook | 📅 2026-10-02:\
   Bayesian optimization in PyTorch
 * [EvoTorch](https://github.com/nnaisense/evotorch) ⭐ 1,149 | 🐛 20 | 🌐 Python | 📅 2026-09-28:\
   Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE.
@@ -358,4 +358,4 @@ Thank you for your contributions to making this repository a valuable resource f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
