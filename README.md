@@ -276,7 +276,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Tools and Libraries
 
-* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 14,154 | 🐛 126 | 🌐 C++ | 📅 2026-10-06
+* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 14,155 | 🐛 125 | 🌐 C++ | 📅 2026-10-06
 * [**PyOptInterface**](https://github.com/metab0t/PyOptInterface) ⭐ 318 | 🐛 11 | 🌐 C++ | 📅 2026-09-08 - Efficient modeling interface for mathematical optimization in **Python**.
 * [**or-tools-wasm**](https://github.com/Axelwickm/or-tools-wasm) ⭐ 65 | 🐛 1 | 🌐 C++ | 📅 2026-10-04 - Multithreaded Typescript/Wasm build of Google OR-Tools.
 * [**COIN-OR**](https://www.coin-or.org/) | [repository](https://github.com/coin-or/)
@@ -313,15 +313,15 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Code Repositories
 
-* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,359 | 🐛 183 | 🌐 C++ | 📅 2026-10-05:\
+* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,358 | 🐛 184 | 🌐 C++ | 📅 2026-10-05:\
   A Python-embedded modeling language for convex optimization problems.
-* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,609 | 🐛 96 | 🌐 Jupyter Notebook | 📅 2026-10-05:\
+* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,609 | 🐛 95 | 🌐 Jupyter Notebook | 📅 2026-10-06:\
   Bayesian optimization in PyTorch
 * [EvoTorch](https://github.com/nnaisense/evotorch) ⭐ 1,149 | 🐛 20 | 🌐 Python | 📅 2026-10-05:\
   Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE.
 * [TorchOpt](https://github.com/metaopt/torchopt) ⭐ 637 | 🐛 20 | 🌐 Python | 📅 2026-10-05:\
   efficient library for differentiable optimization built upon PyTorch.
-* [or-gym](https://github.com/hubbs5/or-gym) ⭐ 455 | 🐛 11 | 🌐 Python | 📅 2023-10-12:\
+* [or-gym](https://github.com/hubbs5/or-gym) ⭐ 456 | 🐛 11 | 🌐 Python | 📅 2023-10-12:\
   nvironments for OR and RL Research
 * [pyconcorde](https://github.com/jvkersch/pyconcorde) ⭐ 398 | 🐛 17 | 🌐 Python | 📅 2026-03-09:\
   Python wrapper around the Concorde TSP solver
