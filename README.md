@@ -276,9 +276,9 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Tools and Libraries
 
-* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 14,213 | 🐛 130 | 🌐 C++ | 📅 2026-10-16
+* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 14,219 | 🐛 132 | 🌐 C++ | 📅 2026-10-16
 * [**PyOptInterface**](https://github.com/metab0t/PyOptInterface) ⭐ 319 | 🐛 11 | 🌐 C++ | 📅 2026-10-14 - Efficient modeling interface for mathematical optimization in **Python**.
-* [**or-tools-wasm**](https://github.com/Axelwickm/or-tools-wasm) ⭐ 66 | 🐛 1 | 🌐 C++ | 📅 2026-10-11 - Multithreaded Typescript/Wasm build of Google OR-Tools.
+* [**or-tools-wasm**](https://github.com/Axelwickm/or-tools-wasm) ⭐ 67 | 🐛 1 | 🌐 C++ | 📅 2026-10-11 - Multithreaded Typescript/Wasm build of Google OR-Tools.
 * [**COIN-OR**](https://www.coin-or.org/) | [repository](https://github.com/coin-or/)
 * [**MiniZinc**](https://www.minizinc.org/) - Constraint modeling language.
 * [**GAMS**](https://www.gams.com/) - High-level modeling system.
@@ -313,9 +313,9 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Code Repositories
 
-* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,366 | 🐛 186 | 🌐 C++ | 📅 2026-10-13:\
+* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,367 | 🐛 186 | 🌐 C++ | 📅 2026-10-13:\
   A Python-embedded modeling language for convex optimization problems.
-* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,624 | 🐛 135 | 🌐 Jupyter Notebook | 📅 2026-10-16:\
+* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,625 | 🐛 158 | 🌐 Jupyter Notebook | 📅 2026-10-16:\
   Bayesian optimization in PyTorch
 * [EvoTorch](https://github.com/nnaisense/evotorch) ⭐ 1,150 | 🐛 21 | 🌐 Python | 📅 2026-10-12:\
   Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE.
@@ -323,7 +323,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
   efficient library for differentiable optimization built upon PyTorch.
 * [or-gym](https://github.com/hubbs5/or-gym) ⭐ 455 | 🐛 11 | 🌐 Python | 📅 2023-10-12:\
   nvironments for OR and RL Research
-* [pyconcorde](https://github.com/jvkersch/pyconcorde) ⭐ 399 | 🐛 17 | 🌐 Python | 📅 2026-03-09:\
+* [pyconcorde](https://github.com/jvkersch/pyconcorde) ⭐ 400 | 🐛 17 | 🌐 Python | 📅 2026-03-09:\
   Python wrapper around the Concorde TSP solver
 * [ecole](https://github.com/ds4dm/ecole) ⭐ 379 | 🐛 60 | 🌐 C++ | 📅 2025-12-20:\
   Extensible Combinatorial Optimization Learning Environments
@@ -358,4 +358,4 @@ Thank you for your contributions to making this repository a valuable resource f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
