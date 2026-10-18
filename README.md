@@ -192,7 +192,7 @@ This list tries to cover vast topics in math. opt. i.e. discrete and combinatori
 ### Operations Research
 
 * *Julia Programming for Operations Research* by Changhyun Kwon - [PDF](https://juliabook.chkwon.net/book) - [code](https://github.com/chkwon/jpor_codes) ⭐ 203 | 🐛 1 | 🌐 Julia | 📅 2021-03-10
-* *Mathematical Programming and Operations Research: Modeling, Algorithms, and Complexity. Examples in Python and Julia*. Edited by Robert Hildebrand - [PDF](https://github.com/open-optimization/open-optimization-or-book/blob/master/MathematicalProgrammingandOperationsResearch.pdf) ⭐ 43 | 🐛 1 | 🌐 HTML | 📅 2026-09-14
+* *Mathematical Programming and Operations Research: Modeling, Algorithms, and Complexity. Examples in Python and Julia*. Edited by Robert Hildebrand - [PDF](https://github.com/open-optimization/open-optimization-or-book/blob/master/MathematicalProgrammingandOperationsResearch.pdf) ⭐ 42 | 🐛 1 | 🌐 HTML | 📅 2026-09-14
 * *Operations Research An Introduction* by Hamdy A. Taha - [Pearson](https://www.pearson.com/en-us/subject-catalog/p/operations-research-an-introduction/P200000003221)
 * *Introduction to Operations Research* by Frederick Hillier and Gerald Lieberman - [McGraw Hill](https://www.mheducation.com/highered/product/introduction-operations-research-hillier-lieberman/M9781259872990.html)
 * *A First Course in Linear Optimization* by Jon Lee - [PDF](https://www.solvermax.com/downloads/lee-linearoptimization4.pdf)
@@ -271,14 +271,16 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 #### Benchmarks
 
+* [benchfun](https://github.com/cmccomb/benchfun) ⭐ 0 | 🐛 1 | 🌐 Rust | 📅 2026-09-20 - Benchmark functions for testing numerical optimization algorithms in Rust.
 * [Hans Mittelmann's Benchmarks](https://plato.asu.edu/bench.html)
 * [Packrift Packaging Optimization Benchmark Corpus](https://packrift.github.io/packaging-optimization-benchmark-corpus/) - Public benchmark corpus for ecommerce packaging fit, void-fill, unit economics, QA, and marketplace-prep checks across Packrift SKU scenarios.
 
 ### Tools and Libraries
 
-* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 14,219 | 🐛 132 | 🌐 C++ | 📅 2026-10-16
+* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 14,225 | 🐛 131 | 🌐 C++ | 📅 2026-10-17
 * [**PyOptInterface**](https://github.com/metab0t/PyOptInterface) ⭐ 319 | 🐛 11 | 🌐 C++ | 📅 2026-10-14 - Efficient modeling interface for mathematical optimization in **Python**.
 * [**or-tools-wasm**](https://github.com/Axelwickm/or-tools-wasm) ⭐ 67 | 🐛 1 | 🌐 C++ | 📅 2026-10-11 - Multithreaded Typescript/Wasm build of Google OR-Tools.
+* [**jeans**](https://github.com/cmccomb/jeans) ⭐ 0 | 🐛 1 | 🌐 Rust | 📅 2026-09-20 - Genetic and multi-objective optimization algorithms in **Rust**.
 * [**COIN-OR**](https://www.coin-or.org/) | [repository](https://github.com/coin-or/)
 * [**MiniZinc**](https://www.minizinc.org/) - Constraint modeling language.
 * [**GAMS**](https://www.gams.com/) - High-level modeling system.
@@ -313,15 +315,15 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Code Repositories
 
-* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,367 | 🐛 186 | 🌐 C++ | 📅 2026-10-13:\
+* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,370 | 🐛 188 | 🌐 C++ | 📅 2026-10-13:\
   A Python-embedded modeling language for convex optimization problems.
-* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,625 | 🐛 158 | 🌐 Jupyter Notebook | 📅 2026-10-16:\
+* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,626 | 🐛 158 | 🌐 Jupyter Notebook | 📅 2026-10-16:\
   Bayesian optimization in PyTorch
 * [EvoTorch](https://github.com/nnaisense/evotorch) ⭐ 1,150 | 🐛 21 | 🌐 Python | 📅 2026-10-12:\
   Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE.
-* [TorchOpt](https://github.com/metaopt/torchopt) ⭐ 638 | 🐛 20 | 🌐 Python | 📅 2026-10-05:\
+* [TorchOpt](https://github.com/metaopt/torchopt) ⭐ 639 | 🐛 20 | 🌐 Python | 📅 2026-10-05:\
   efficient library for differentiable optimization built upon PyTorch.
-* [or-gym](https://github.com/hubbs5/or-gym) ⭐ 455 | 🐛 11 | 🌐 Python | 📅 2023-10-12:\
+* [or-gym](https://github.com/hubbs5/or-gym) ⭐ 454 | 🐛 11 | 🌐 Python | 📅 2023-10-12:\
   nvironments for OR and RL Research
 * [pyconcorde](https://github.com/jvkersch/pyconcorde) ⭐ 400 | 🐛 17 | 🌐 Python | 📅 2026-03-09:\
   Python wrapper around the Concorde TSP solver
@@ -358,4 +360,4 @@ Thank you for your contributions to making this repository a valuable resource f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._

@@ -42,7 +42,7 @@
                 "open_issues": 1,
                 "owner": "open-optimization",
                 "repo": "open-optimization-or-book",
-                "stars": 43,
+                "stars": 42,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
@@ -95,6 +95,47 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "benchfun",
+                  "description": "Benchmark functions for testing numerical optimization algorithms in Rust.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Benchmark functions for testing optimization algorithms in Rust",
+                    "homepage": "https://crates.io/crates/benchfun",
+                    "id": 283808634,
+                    "language": "Rust",
+                    "license": "MIT",
+                    "last_commit": "2026-09-20T15:38:51Z",
+                    "open_issues": 1,
+                    "owner": "cmccomb",
+                    "repo": "benchfun",
+                    "stars": 0,
+                    "topics": [
+                      "benchmark-functions",
+                      "numerical-optimization",
+                      "optimization",
+                      "rust",
+                      "test-functions"
+                    ]
+                  },
+                  "first_seen": "2026-10-18T13:35:57.928Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Benchmarks"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Solvers"
+        },
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "Google OR-Tools",
               "description": "examples | repository",
@@ -106,11 +147,11 @@
                 "id": 31102092,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T19:49:58Z",
-                "open_issues": 132,
+                "last_commit": "2026-10-17T13:22:14Z",
+                "open_issues": 131,
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 14219,
+                "stars": 14225,
                 "topics": [
                   "combinatorial-optimization",
                   "linear-programming",
@@ -186,6 +227,33 @@
                 ]
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
+            },
+            {
+              "node_type": "item",
+              "title": "jeans",
+              "description": "Genetic and multi-objective optimization algorithms in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Genetic and multi-objective optimization algorithms in Rust",
+                "homepage": "https://crates.io/crates/jeans",
+                "id": 283574218,
+                "language": "Rust",
+                "license": null,
+                "last_commit": "2026-09-20T15:40:06Z",
+                "open_issues": 1,
+                "owner": "cmccomb",
+                "repo": "jeans",
+                "stars": 0,
+                "topics": [
+                  "evolutionary-algorithms",
+                  "genetic-algorithm",
+                  "multi-objective-optimization",
+                  "optimization",
+                  "rust"
+                ]
+              },
+              "first_seen": "2026-10-18T13:35:57.928Z"
             }
           ],
           "description": null,
@@ -213,10 +281,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-13T18:42:19Z",
-                "open_issues": 186,
+                "open_issues": 188,
                 "owner": "cvxpy",
                 "repo": "cvxpy",
-                "stars": 6367,
+                "stars": 6370,
                 "topics": [
                   "convex-optimization",
                   "cvxpy",
@@ -246,7 +314,7 @@
                 "open_issues": 158,
                 "owner": "meta-pytorch",
                 "repo": "botorch",
-                "stars": 3625,
+                "stars": 3626,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
@@ -301,7 +369,7 @@
                 "open_issues": 20,
                 "owner": "metaopt",
                 "repo": "torchopt",
-                "stars": 638,
+                "stars": 639,
                 "topics": [
                   "automatic-differentiation",
                   "bilevel-optimization",
@@ -336,7 +404,7 @@
                 "open_issues": 11,
                 "owner": "hubbs5",
                 "repo": "or-gym",
-                "stars": 455,
+                "stars": 454,
                 "topics": [
                   "deep-reinforcement-learning",
                   "operations-research",
@@ -483,7 +551,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T13:15:55.885Z",
+    "last_updated": "2026-10-18T13:35:57.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.",
@@ -491,8 +559,8 @@
       "id": 712233221,
       "language": null,
       "license": null,
-      "last_commit": "2026-05-18T21:03:21Z",
-      "open_issues": 5,
+      "last_commit": "2026-10-18T02:39:35Z",
+      "open_issues": 3,
       "owner": "ebrahimpichka",
       "repo": "awesome-optimization",
       "stars": 753,
@@ -514,7 +582,7 @@
         "stochastic-optimization"
       ]
     },
-    "original_repository_sha": "ee45310f7d899ee8d550e7c67f6a2068e73adabc",
+    "original_repository_sha": "7f8f57190d45d9acf807a139756c956309897bcf",
     "enhanced_repository": "enhansome/enhansome-optimization",
     "enhanced_repository_description": null,
     "title": "Awesome Optimization Courses with stars"
