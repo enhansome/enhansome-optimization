@@ -277,7 +277,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Tools and Libraries
 
-* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 14,238 | 🐛 131 | 🌐 C++ | 📅 2026-10-20
+* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 14,241 | 🐛 129 | 🌐 C++ | 📅 2026-10-21
 * [**PyOptInterface**](https://github.com/metab0t/PyOptInterface) ⭐ 319 | 🐛 12 | 🌐 C++ | 📅 2026-10-14 - Efficient modeling interface for mathematical optimization in **Python**.
 * [**or-tools-wasm**](https://github.com/Axelwickm/or-tools-wasm) ⭐ 67 | 🐛 1 | 🌐 C++ | 📅 2026-10-11 - Multithreaded Typescript/Wasm build of Google OR-Tools.
 * [**topopt**](https://github.com/cmccomb/topopt-rs) ⭐ 14 | 🐛 1 | 🌐 Rust | 📅 2026-09-20 - Topology optimization in pure **Rust**, based on Sigmund's 99-line MATLAB implementation.
@@ -318,7 +318,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 * [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,371 | 🐛 186 | 🌐 C++ | 📅 2026-10-20:\
   A Python-embedded modeling language for convex optimization problems.
-* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,630 | 🐛 180 | 🌐 Jupyter Notebook | 📅 2026-10-16:\
+* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,630 | 🐛 225 | 🌐 Jupyter Notebook | 📅 2026-10-16:\
   Bayesian optimization in PyTorch
 * [EvoTorch](https://github.com/nnaisense/evotorch) ⭐ 1,150 | 🐛 21 | 🌐 Python | 📅 2026-10-19:\
   Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE.
@@ -361,4 +361,4 @@ Thank you for your contributions to making this repository a valuable resource f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
