@@ -192,7 +192,7 @@ This list tries to cover vast topics in math. opt. i.e. discrete and combinatori
 ### Operations Research
 
 * *Julia Programming for Operations Research* by Changhyun Kwon - [PDF](https://juliabook.chkwon.net/book) - [code](https://github.com/chkwon/jpor_codes) ⭐ 203 | 🐛 1 | 🌐 Julia | 📅 2021-03-10
-* *Mathematical Programming and Operations Research: Modeling, Algorithms, and Complexity. Examples in Python and Julia*. Edited by Robert Hildebrand - [PDF](https://github.com/open-optimization/open-optimization-or-book/blob/master/MathematicalProgrammingandOperationsResearch.pdf) ⭐ 42 | 🐛 1 | 🌐 HTML | 📅 2026-09-14
+* *Mathematical Programming and Operations Research: Modeling, Algorithms, and Complexity. Examples in Python and Julia*. Edited by Robert Hildebrand - [PDF](https://github.com/open-optimization/open-optimization-or-book/blob/master/MathematicalProgrammingandOperationsResearch.pdf) ⭐ 43 | 🐛 1 | 🌐 HTML | 📅 2026-09-14
 * *Operations Research An Introduction* by Hamdy A. Taha - [Pearson](https://www.pearson.com/en-us/subject-catalog/p/operations-research-an-introduction/P200000003221)
 * *Introduction to Operations Research* by Frederick Hillier and Gerald Lieberman - [McGraw Hill](https://www.mheducation.com/highered/product/introduction-operations-research-hillier-lieberman/M9781259872990.html)
 * *A First Course in Linear Optimization* by Jon Lee - [PDF](https://www.solvermax.com/downloads/lee-linearoptimization4.pdf)
@@ -202,7 +202,7 @@ This list tries to cover vast topics in math. opt. i.e. discrete and combinatori
 
 ### Meta-heuristics
 
-* *Clever Algorithms: Nature-Inspired Programming Recipes* by Jason Brownlee - [GitHub](https://github.com/clever-algorithms/CleverAlgorithms) ⭐ 2,122 | 🐛 32 | 🌐 TeX | 📅 2024-12-20
+* *Clever Algorithms: Nature-Inspired Programming Recipes* by Jason Brownlee - [GitHub](https://github.com/clever-algorithms/CleverAlgorithms) ⭐ 2,121 | 🐛 32 | 🌐 TeX | 📅 2024-12-20
 
 * *Metaheuristics* by Patrick Siarry - [Springer (open access)](https://link.springer.com/book/10.1007/978-3-319-45403-0)
 
@@ -277,7 +277,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Tools and Libraries
 
-* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 14,241 | 🐛 129 | 🌐 C++ | 📅 2026-10-21
+* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 14,246 | 🐛 138 | 🌐 C++ | 📅 2026-10-21
 * [**PyOptInterface**](https://github.com/metab0t/PyOptInterface) ⭐ 319 | 🐛 12 | 🌐 C++ | 📅 2026-10-14 - Efficient modeling interface for mathematical optimization in **Python**.
 * [**or-tools-wasm**](https://github.com/Axelwickm/or-tools-wasm) ⭐ 67 | 🐛 1 | 🌐 C++ | 📅 2026-10-11 - Multithreaded Typescript/Wasm build of Google OR-Tools.
 * [**topopt**](https://github.com/cmccomb/topopt-rs) ⭐ 14 | 🐛 1 | 🌐 Rust | 📅 2026-09-20 - Topology optimization in pure **Rust**, based on Sigmund's 99-line MATLAB implementation.
@@ -316,9 +316,9 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Code Repositories
 
-* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,371 | 🐛 186 | 🌐 C++ | 📅 2026-10-20:\
+* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,373 | 🐛 186 | 🌐 C++ | 📅 2026-10-21:\
   A Python-embedded modeling language for convex optimization problems.
-* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,630 | 🐛 225 | 🌐 Jupyter Notebook | 📅 2026-10-16:\
+* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,632 | 🐛 241 | 🌐 Jupyter Notebook | 📅 2026-10-16:\
   Bayesian optimization in PyTorch
 * [EvoTorch](https://github.com/nnaisense/evotorch) ⭐ 1,150 | 🐛 21 | 🌐 Python | 📅 2026-10-19:\
   Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE.
@@ -361,4 +361,4 @@ Thank you for your contributions to making this repository a valuable resource f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
