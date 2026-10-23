@@ -277,9 +277,9 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Tools and Libraries
 
-* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 14,246 | 🐛 138 | 🌐 C++ | 📅 2026-10-21
+* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 14,255 | 🐛 138 | 🌐 C++ | 📅 2026-10-23
 * [**PyOptInterface**](https://github.com/metab0t/PyOptInterface) ⭐ 319 | 🐛 12 | 🌐 C++ | 📅 2026-10-14 - Efficient modeling interface for mathematical optimization in **Python**.
-* [**or-tools-wasm**](https://github.com/Axelwickm/or-tools-wasm) ⭐ 67 | 🐛 1 | 🌐 C++ | 📅 2026-10-11 - Multithreaded Typescript/Wasm build of Google OR-Tools.
+* [**or-tools-wasm**](https://github.com/Axelwickm/or-tools-wasm) ⭐ 68 | 🐛 1 | 🌐 C++ | 📅 2026-10-23 - Multithreaded Typescript/Wasm build of Google OR-Tools.
 * [**topopt**](https://github.com/cmccomb/topopt-rs) ⭐ 14 | 🐛 1 | 🌐 Rust | 📅 2026-09-20 - Topology optimization in pure **Rust**, based on Sigmund's 99-line MATLAB implementation.
 * [**jeans**](https://github.com/cmccomb/jeans) ⭐ 0 | 🐛 1 | 🌐 Rust | 📅 2026-09-20 - Genetic and multi-objective optimization algorithms in **Rust**.
 * [**COIN-OR**](https://www.coin-or.org/) | [repository](https://github.com/coin-or/)
@@ -316,7 +316,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Code Repositories
 
-* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,373 | 🐛 186 | 🌐 C++ | 📅 2026-10-21:\
+* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,375 | 🐛 187 | 🌐 C++ | 📅 2026-10-21:\
   A Python-embedded modeling language for convex optimization problems.
 * [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,632 | 🐛 241 | 🌐 Jupyter Notebook | 📅 2026-10-16:\
   Bayesian optimization in PyTorch
@@ -361,4 +361,4 @@ Thank you for your contributions to making this repository a valuable resource f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
