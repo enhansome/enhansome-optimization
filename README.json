@@ -147,11 +147,11 @@
                 "id": 31102092,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T16:10:46Z",
+                "last_commit": "2026-10-30T14:48:39Z",
                 "open_issues": 139,
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 14299,
+                "stars": 14303,
                 "topics": [
                   "combinatorial-optimization",
                   "linear-programming",
@@ -311,10 +311,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-28T02:56:00Z",
-                "open_issues": 189,
+                "open_issues": 192,
                 "owner": "cvxpy",
                 "repo": "cvxpy",
-                "stars": 6380,
+                "stars": 6382,
                 "topics": [
                   "convex-optimization",
                   "cvxpy",
@@ -344,7 +344,7 @@
                 "open_issues": 247,
                 "owner": "meta-pytorch",
                 "repo": "botorch",
-                "stars": 3641,
+                "stars": 3642,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T16:25:32.071Z",
+    "last_updated": "2026-10-30T16:16:26.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.",
@@ -593,7 +593,7 @@
       "open_issues": 3,
       "owner": "ebrahimpichka",
       "repo": "awesome-optimization",
-      "stars": 753,
+      "stars": 754,
       "topics": [
         "awesome",
         "awesome-list",
