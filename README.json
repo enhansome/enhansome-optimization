@@ -148,10 +148,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T14:48:39Z",
-                "open_issues": 140,
+                "open_issues": 141,
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 14307,
+                "stars": 14308,
                 "topics": [
                   "combinatorial-optimization",
                   "linear-programming",
@@ -209,7 +209,7 @@
                 "open_issues": 0,
                 "owner": "Axelwickm",
                 "repo": "or-tools-wasm",
-                "stars": 69,
+                "stars": 70,
                 "topics": [
                   "constraint-programming",
                   "integer-programming",
@@ -310,11 +310,11 @@
                 "id": 11110385,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T02:56:00Z",
-                "open_issues": 193,
+                "last_commit": "2026-10-31T23:38:37Z",
+                "open_issues": 194,
                 "owner": "cvxpy",
                 "repo": "cvxpy",
-                "stars": 6382,
+                "stars": 6384,
                 "topics": [
                   "convex-optimization",
                   "cvxpy",
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T15:30:38.255Z",
+    "last_updated": "2026-11-01T16:26:40.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.",
