@@ -42,7 +42,7 @@
                 "open_issues": 1,
                 "owner": "open-optimization",
                 "repo": "open-optimization-or-book",
-                "stars": 45,
+                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
@@ -147,11 +147,11 @@
                 "id": 31102092,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T14:48:39Z",
-                "open_issues": 141,
+                "last_commit": "2026-11-02T17:03:58Z",
+                "open_issues": 139,
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 14308,
+                "stars": 14316,
                 "topics": [
                   "combinatorial-optimization",
                   "linear-programming",
@@ -310,11 +310,11 @@
                 "id": 11110385,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T23:38:37Z",
-                "open_issues": 194,
+                "last_commit": "2026-11-02T11:33:18Z",
+                "open_issues": 168,
                 "owner": "cvxpy",
                 "repo": "cvxpy",
-                "stars": 6384,
+                "stars": 6385,
                 "topics": [
                   "convex-optimization",
                   "cvxpy",
@@ -341,10 +341,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-10-28T13:10:46Z",
-                "open_issues": 247,
+                "open_issues": 250,
                 "owner": "meta-pytorch",
                 "repo": "botorch",
-                "stars": 3643,
+                "stars": 3644,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
@@ -395,7 +395,7 @@
                 "id": 479489097,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T19:58:30Z",
+                "last_commit": "2026-11-02T19:36:52Z",
                 "open_issues": 20,
                 "owner": "metaopt",
                 "repo": "torchopt",
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T16:26:40.893Z",
+    "last_updated": "2026-11-02T19:49:06.903Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.",
@@ -593,7 +593,7 @@
       "open_issues": 3,
       "owner": "ebrahimpichka",
       "repo": "awesome-optimization",
-      "stars": 754,
+      "stars": 755,
       "topics": [
         "awesome",
         "awesome-list",
