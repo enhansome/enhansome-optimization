@@ -147,11 +147,11 @@
                 "id": 31102092,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T17:03:58Z",
-                "open_issues": 139,
+                "last_commit": "2026-11-03T15:18:26Z",
+                "open_issues": 140,
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 14316,
+                "stars": 14321,
                 "topics": [
                   "combinatorial-optimization",
                   "linear-programming",
@@ -310,8 +310,8 @@
                 "id": 11110385,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T11:33:18Z",
-                "open_issues": 168,
+                "last_commit": "2026-11-03T06:35:01Z",
+                "open_issues": 169,
                 "owner": "cvxpy",
                 "repo": "cvxpy",
                 "stars": 6385,
@@ -361,7 +361,7 @@
                 "id": 522655946,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T20:40:13Z",
+                "last_commit": "2026-11-02T21:06:50Z",
                 "open_issues": 21,
                 "owner": "nnaisense",
                 "repo": "evotorch",
@@ -434,7 +434,7 @@
                 "open_issues": 11,
                 "owner": "hubbs5",
                 "repo": "or-gym",
-                "stars": 455,
+                "stars": 456,
                 "topics": [
                   "deep-reinforcement-learning",
                   "operations-research",
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T19:49:06.903Z",
+    "last_updated": "2026-11-03T17:22:03.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.",
