@@ -70,7 +70,7 @@
                 "open_issues": 32,
                 "owner": "Jason2Brownlee",
                 "repo": "CleverAlgorithms",
-                "stars": 2122,
+                "stars": 2123,
                 "topics": [
                   "algorithms",
                   "book",
@@ -151,7 +151,7 @@
                 "open_issues": 140,
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 14337,
+                "stars": 14339,
                 "topics": [
                   "combinatorial-optimization",
                   "linear-programming",
@@ -314,7 +314,7 @@
                 "open_issues": 170,
                 "owner": "cvxpy",
                 "repo": "cvxpy",
-                "stars": 6386,
+                "stars": 6388,
                 "topics": [
                   "convex-optimization",
                   "cvxpy",
@@ -340,8 +340,8 @@
                 "id": 142940093,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-28T13:10:46Z",
-                "open_issues": 252,
+                "last_commit": "2026-11-06T00:12:49Z",
+                "open_issues": 247,
                 "owner": "meta-pytorch",
                 "repo": "botorch",
                 "stars": 3646,
@@ -434,7 +434,7 @@
                 "open_issues": 11,
                 "owner": "hubbs5",
                 "repo": "or-gym",
-                "stars": 456,
+                "stars": 457,
                 "topics": [
                   "deep-reinforcement-learning",
                   "operations-research",
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T17:40:48.641Z",
+    "last_updated": "2026-11-06T16:57:06.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.",

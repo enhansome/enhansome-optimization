@@ -202,7 +202,7 @@ This list tries to cover vast topics in math. opt. i.e. discrete and combinatori
 
 ### Meta-heuristics
 
-* *Clever Algorithms: Nature-Inspired Programming Recipes* by Jason Brownlee - [GitHub](https://github.com/clever-algorithms/CleverAlgorithms) ⭐ 2,122 | 🐛 32 | 🌐 TeX | 📅 2024-12-20
+* *Clever Algorithms: Nature-Inspired Programming Recipes* by Jason Brownlee - [GitHub](https://github.com/clever-algorithms/CleverAlgorithms) ⭐ 2,123 | 🐛 32 | 🌐 TeX | 📅 2024-12-20
 
 * *Metaheuristics* by Patrick Siarry - [Springer (open access)](https://link.springer.com/book/10.1007/978-3-319-45403-0)
 
@@ -277,7 +277,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Tools and Libraries
 
-* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 14,337 | 🐛 140 | 🌐 C++ | 📅 2026-11-04
+* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 14,339 | 🐛 140 | 🌐 C++ | 📅 2026-11-04
 * [**PyOptInterface**](https://github.com/metab0t/PyOptInterface) ⭐ 319 | 🐛 12 | 🌐 C++ | 📅 2026-10-14 - Efficient modeling interface for mathematical optimization in **Python**.
 * [**or-tools-wasm**](https://github.com/Axelwickm/or-tools-wasm) ⭐ 70 | 🐛 0 | 🌐 C++ | 📅 2026-10-26 - Multithreaded Typescript/Wasm build of Google OR-Tools.
 * [**topopt**](https://github.com/cmccomb/topopt-rs) ⭐ 15 | 🐛 1 | 🌐 Rust | 📅 2026-09-20 - Topology optimization in pure **Rust**, based on Sigmund's 99-line MATLAB implementation.
@@ -316,15 +316,15 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Code Repositories
 
-* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,386 | 🐛 170 | 🌐 C++ | 📅 2026-11-04:\
+* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,388 | 🐛 170 | 🌐 C++ | 📅 2026-11-04:\
   A Python-embedded modeling language for convex optimization problems.
-* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,646 | 🐛 252 | 🌐 Jupyter Notebook | 📅 2026-10-28:\
+* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,646 | 🐛 247 | 🌐 Jupyter Notebook | 📅 2026-11-06:\
   Bayesian optimization in PyTorch
 * [EvoTorch](https://github.com/nnaisense/evotorch) ⭐ 1,151 | 🐛 21 | 🌐 Python | 📅 2026-11-02:\
   Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE.
 * [TorchOpt](https://github.com/metaopt/torchopt) ⭐ 640 | 🐛 20 | 🌐 Python | 📅 2026-11-02:\
   efficient library for differentiable optimization built upon PyTorch.
-* [or-gym](https://github.com/hubbs5/or-gym) ⭐ 456 | 🐛 11 | 🌐 Python | 📅 2023-10-12:\
+* [or-gym](https://github.com/hubbs5/or-gym) ⭐ 457 | 🐛 11 | 🌐 Python | 📅 2023-10-12:\
   nvironments for OR and RL Research
 * [pyconcorde](https://github.com/jvkersch/pyconcorde) ⭐ 401 | 🐛 17 | 🌐 Python | 📅 2026-03-09:\
   Python wrapper around the Concorde TSP solver
@@ -361,4 +361,4 @@ Thank you for your contributions to making this repository a valuable resource f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
