@@ -147,11 +147,11 @@
                 "id": 31102092,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T10:49:43Z",
-                "open_issues": 140,
+                "last_commit": "2026-11-07T07:35:47Z",
+                "open_issues": 142,
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 14339,
+                "stars": 14343,
                 "topics": [
                   "combinatorial-optimization",
                   "linear-programming",
@@ -310,8 +310,8 @@
                 "id": 11110385,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T21:31:28Z",
-                "open_issues": 170,
+                "last_commit": "2026-11-07T04:37:56Z",
+                "open_issues": 172,
                 "owner": "cvxpy",
                 "repo": "cvxpy",
                 "stars": 6388,
@@ -341,10 +341,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-11-06T00:12:49Z",
-                "open_issues": 247,
+                "open_issues": 249,
                 "owner": "meta-pytorch",
                 "repo": "botorch",
-                "stars": 3646,
+                "stars": 3647,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
@@ -365,7 +365,7 @@
                 "open_issues": 21,
                 "owner": "nnaisense",
                 "repo": "evotorch",
-                "stars": 1151,
+                "stars": 1152,
                 "topics": [
                   "artificial-intelligence",
                   "distributed",
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T16:57:06.306Z",
+    "last_updated": "2026-11-07T15:56:02.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.",
