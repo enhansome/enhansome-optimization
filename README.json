@@ -147,11 +147,11 @@
                 "id": 31102092,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T17:28:34Z",
-                "open_issues": 139,
+                "last_commit": "2026-11-10T15:36:01Z",
+                "open_issues": 138,
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 14352,
+                "stars": 14358,
                 "topics": [
                   "combinatorial-optimization",
                   "linear-programming",
@@ -178,7 +178,7 @@
                 "open_issues": 12,
                 "owner": "metab0t",
                 "repo": "PyOptInterface",
-                "stars": 319,
+                "stars": 320,
                 "topics": [
                   "conic-programs",
                   "linear-programming",
@@ -209,7 +209,7 @@
                 "open_issues": 0,
                 "owner": "Axelwickm",
                 "repo": "or-tools-wasm",
-                "stars": 71,
+                "stars": 72,
                 "topics": [
                   "constraint-programming",
                   "integer-programming",
@@ -311,10 +311,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-09T11:33:14Z",
-                "open_issues": 174,
+                "open_issues": 175,
                 "owner": "cvxpy",
                 "repo": "cvxpy",
-                "stars": 6388,
+                "stars": 6389,
                 "topics": [
                   "convex-optimization",
                   "cvxpy",
@@ -340,11 +340,11 @@
                 "id": 142940093,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-09T18:32:34Z",
+                "last_commit": "2026-11-10T16:17:51Z",
                 "open_issues": 250,
                 "owner": "meta-pytorch",
                 "repo": "botorch",
-                "stars": 3648,
+                "stars": 3650,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
@@ -463,7 +463,7 @@
                 "open_issues": 17,
                 "owner": "jvkersch",
                 "repo": "pyconcorde",
-                "stars": 401,
+                "stars": 402,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T20:10:37.417Z",
+    "last_updated": "2026-11-10T17:18:58.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.",
