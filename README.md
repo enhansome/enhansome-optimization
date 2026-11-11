@@ -277,7 +277,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Tools and Libraries
 
-* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 14,358 | 🐛 138 | 🌐 C++ | 📅 2026-11-10
+* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 14,364 | 🐛 139 | 🌐 C++ | 📅 2026-11-10
 * [**PyOptInterface**](https://github.com/metab0t/PyOptInterface) ⭐ 320 | 🐛 12 | 🌐 C++ | 📅 2026-10-14 - Efficient modeling interface for mathematical optimization in **Python**.
 * [**or-tools-wasm**](https://github.com/Axelwickm/or-tools-wasm) ⭐ 72 | 🐛 0 | 🌐 C++ | 📅 2026-10-26 - Multithreaded Typescript/Wasm build of Google OR-Tools.
 * [**topopt**](https://github.com/cmccomb/topopt-rs) ⭐ 15 | 🐛 1 | 🌐 Rust | 📅 2026-09-20 - Topology optimization in pure **Rust**, based on Sigmund's 99-line MATLAB implementation.
@@ -316,11 +316,11 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Code Repositories
 
-* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,389 | 🐛 175 | 🌐 C++ | 📅 2026-11-09:\
+* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,392 | 🐛 181 | 🌐 C++ | 📅 2026-11-09:\
   A Python-embedded modeling language for convex optimization problems.
-* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,650 | 🐛 250 | 🌐 Jupyter Notebook | 📅 2026-11-10:\
+* [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,651 | 🐛 250 | 🌐 Jupyter Notebook | 📅 2026-11-10:\
   Bayesian optimization in PyTorch
-* [EvoTorch](https://github.com/nnaisense/evotorch) ⭐ 1,152 | 🐛 21 | 🌐 Python | 📅 2026-11-02:\
+* [EvoTorch](https://github.com/nnaisense/evotorch) ⭐ 1,153 | 🐛 21 | 🌐 Python | 📅 2026-11-02:\
   Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE.
 * [TorchOpt](https://github.com/metaopt/torchopt) ⭐ 639 | 🐛 23 | 🌐 Python | 📅 2026-11-02:\
   efficient library for differentiable optimization built upon PyTorch.
@@ -361,4 +361,4 @@ Thank you for your contributions to making this repository a valuable resource f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
