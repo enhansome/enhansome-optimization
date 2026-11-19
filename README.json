@@ -70,7 +70,7 @@
                 "open_issues": 32,
                 "owner": "Jason2Brownlee",
                 "repo": "CleverAlgorithms",
-                "stars": 2123,
+                "stars": 2122,
                 "topics": [
                   "algorithms",
                   "book",
@@ -147,11 +147,11 @@
                 "id": 31102092,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T17:43:24Z",
-                "open_issues": 143,
+                "last_commit": "2026-11-19T12:26:33Z",
+                "open_issues": 142,
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 14399,
+                "stars": 14408,
                 "topics": [
                   "combinatorial-optimization",
                   "linear-programming",
@@ -209,7 +209,7 @@
                 "open_issues": 0,
                 "owner": "Axelwickm",
                 "repo": "or-tools-wasm",
-                "stars": 74,
+                "stars": 75,
                 "topics": [
                   "combinatorial-optimization",
                   "constraint-programming",
@@ -317,8 +317,8 @@
                 "id": 11110385,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T17:23:15Z",
-                "open_issues": 199,
+                "last_commit": "2026-11-19T08:28:35Z",
+                "open_issues": 198,
                 "owner": "cvxpy",
                 "repo": "cvxpy",
                 "stars": 6396,
@@ -348,7 +348,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-11-17T17:36:43Z",
-                "open_issues": 259,
+                "open_issues": 260,
                 "owner": "meta-pytorch",
                 "repo": "botorch",
                 "stars": 3655,
@@ -491,7 +491,7 @@
                 "open_issues": 60,
                 "owner": "ds4dm",
                 "repo": "ecole",
-                "stars": 380,
+                "stars": 379,
                 "topics": [
                   "combinatorial-optimization",
                   "gym",
@@ -588,7 +588,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T18:25:32.595Z",
+    "last_updated": "2026-11-19T18:41:34.764Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.",
