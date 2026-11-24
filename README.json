@@ -151,7 +151,7 @@
                 "open_issues": 143,
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 14437,
+                "stars": 14446,
                 "topics": [
                   "combinatorial-optimization",
                   "linear-programming",
@@ -317,11 +317,11 @@
                 "id": 11110385,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T11:33:33Z",
-                "open_issues": 197,
+                "last_commit": "2026-11-24T19:23:50Z",
+                "open_issues": 195,
                 "owner": "cvxpy",
                 "repo": "cvxpy",
-                "stars": 6401,
+                "stars": 6400,
                 "topics": [
                   "convex-optimization",
                   "cvxpy",
@@ -348,7 +348,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-11-17T17:36:43Z",
-                "open_issues": 266,
+                "open_issues": 265,
                 "owner": "meta-pytorch",
                 "repo": "botorch",
                 "stars": 3655,
@@ -372,7 +372,7 @@
                 "open_issues": 21,
                 "owner": "nnaisense",
                 "repo": "evotorch",
-                "stars": 1152,
+                "stars": 1153,
                 "topics": [
                   "artificial-intelligence",
                   "distributed",
@@ -588,7 +588,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T21:42:57.260Z",
+    "last_updated": "2026-11-24T20:22:46.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.",
@@ -597,7 +597,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-19T04:01:15Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "ebrahimpichka",
       "repo": "awesome-optimization",
       "stars": 756,
