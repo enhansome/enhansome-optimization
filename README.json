@@ -148,10 +148,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-25T15:35:53Z",
-                "open_issues": 154,
+                "open_issues": 153,
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 14457,
+                "stars": 14462,
                 "topics": [
                   "combinatorial-optimization",
                   "linear-programming",
@@ -209,7 +209,7 @@
                 "open_issues": 0,
                 "owner": "Axelwickm",
                 "repo": "or-tools-wasm",
-                "stars": 79,
+                "stars": 80,
                 "topics": [
                   "combinatorial-optimization",
                   "constraint-programming",
@@ -317,11 +317,11 @@
                 "id": 11110385,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T19:23:50Z",
-                "open_issues": 196,
+                "last_commit": "2026-11-26T18:34:01Z",
+                "open_issues": 176,
                 "owner": "cvxpy",
                 "repo": "cvxpy",
-                "stars": 6401,
+                "stars": 6403,
                 "topics": [
                   "convex-optimization",
                   "cvxpy",
@@ -347,11 +347,11 @@
                 "id": 142940093,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-17T17:36:43Z",
+                "last_commit": "2026-11-25T21:27:20Z",
                 "open_issues": 266,
                 "owner": "meta-pytorch",
                 "repo": "botorch",
-                "stars": 3658,
+                "stars": 3659,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:08.429Z"
@@ -441,7 +441,7 @@
                 "open_issues": 11,
                 "owner": "hubbs5",
                 "repo": "or-gym",
-                "stars": 459,
+                "stars": 460,
                 "topics": [
                   "deep-reinforcement-learning",
                   "operations-research",
@@ -588,7 +588,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T19:36:58.331Z",
+    "last_updated": "2026-11-26T19:17:48.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.",
@@ -600,7 +600,7 @@
       "open_issues": 6,
       "owner": "ebrahimpichka",
       "repo": "awesome-optimization",
-      "stars": 756,
+      "stars": 757,
       "topics": [
         "awesome",
         "awesome-list",
