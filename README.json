@@ -147,11 +147,11 @@
                 "id": 31102092,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T15:35:53Z",
-                "open_issues": 153,
+                "last_commit": "2026-11-27T17:30:53Z",
+                "open_issues": 152,
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 14462,
+                "stars": 14464,
                 "topics": [
                   "combinatorial-optimization",
                   "linear-programming",
@@ -317,11 +317,11 @@
                 "id": 11110385,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T18:34:01Z",
-                "open_issues": 176,
+                "last_commit": "2026-11-26T23:32:16Z",
+                "open_issues": 170,
                 "owner": "cvxpy",
                 "repo": "cvxpy",
-                "stars": 6403,
+                "stars": 6404,
                 "topics": [
                   "convex-optimization",
                   "cvxpy",
@@ -348,7 +348,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-11-25T21:27:20Z",
-                "open_issues": 266,
+                "open_issues": 269,
                 "owner": "meta-pytorch",
                 "repo": "botorch",
                 "stars": 3659,
@@ -372,7 +372,7 @@
                 "open_issues": 21,
                 "owner": "nnaisense",
                 "repo": "evotorch",
-                "stars": 1153,
+                "stars": 1154,
                 "topics": [
                   "artificial-intelligence",
                   "distributed",
@@ -588,7 +588,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T19:17:48.384Z",
+    "last_updated": "2026-11-27T19:11:58.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.",
