@@ -277,8 +277,8 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Tools and Libraries
 
-* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 14,464 | 🐛 152 | 🌐 C++ | 📅 2026-11-27
-* [**PyOptInterface**](https://github.com/metab0t/PyOptInterface) ⭐ 319 | 🐛 12 | 🌐 C++ | 📅 2026-10-14 - Efficient modeling interface for mathematical optimization in **Python**.
+* [**Google OR-Tools**](https://developers.google.com/optimization/) | [examples](https://developers.google.com/optimization/examples) | [repository](https://github.com/google/or-tools) ⭐ 14,468 | 🐛 153 | 🌐 C++ | 📅 2026-11-27
+* [**PyOptInterface**](https://github.com/metab0t/PyOptInterface) ⭐ 320 | 🐛 12 | 🌐 C++ | 📅 2026-10-14 - Efficient modeling interface for mathematical optimization in **Python**.
 * [**or-tools-wasm**](https://github.com/Axelwickm/or-tools-wasm) ⭐ 80 | 🐛 0 | 🌐 C++ | 📅 2026-11-22 - Multithreaded Typescript/Wasm build of Google OR-Tools.
 * [**topopt**](https://github.com/cmccomb/topopt-rs) ⭐ 15 | 🐛 1 | 🌐 Rust | 📅 2026-09-20 - Topology optimization in pure **Rust**, based on Sigmund's 99-line MATLAB implementation.
 * [**jeans**](https://github.com/cmccomb/jeans) ⭐ 0 | 🐛 1 | 🌐 Rust | 📅 2026-09-20 - Genetic and multi-objective optimization algorithms in **Rust**.
@@ -316,7 +316,7 @@ Check out [**More of Prof. Bertsekas's Books**](https://www.mit.edu/~dimitrib/bo
 
 ### Code Repositories
 
-* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,404 | 🐛 170 | 🌐 C++ | 📅 2026-11-26:\
+* [cvxpy](https://github.com/cvxpy/cvxpy) ⭐ 6,404 | 🐛 169 | 🌐 C++ | 📅 2026-11-28:\
   A Python-embedded modeling language for convex optimization problems.
 * [BOTorch](https://github.com/pytorch/botorch) ⭐ 3,659 | 🐛 269 | 🌐 Jupyter Notebook | 📅 2026-11-25:\
   Bayesian optimization in PyTorch
@@ -361,4 +361,4 @@ Thank you for your contributions to making this repository a valuable resource f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._

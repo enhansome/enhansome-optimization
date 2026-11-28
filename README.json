@@ -148,10 +148,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-27T17:30:53Z",
-                "open_issues": 152,
+                "open_issues": 153,
                 "owner": "google",
                 "repo": "or-tools",
-                "stars": 14464,
+                "stars": 14468,
                 "topics": [
                   "combinatorial-optimization",
                   "linear-programming",
@@ -178,7 +178,7 @@
                 "open_issues": 12,
                 "owner": "metab0t",
                 "repo": "PyOptInterface",
-                "stars": 319,
+                "stars": 320,
                 "topics": [
                   "conic-programs",
                   "linear-programming",
@@ -317,8 +317,8 @@
                 "id": 11110385,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T23:32:16Z",
-                "open_issues": 170,
+                "last_commit": "2026-11-28T11:10:58Z",
+                "open_issues": 169,
                 "owner": "cvxpy",
                 "repo": "cvxpy",
                 "stars": 6404,
@@ -588,7 +588,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T19:11:58.580Z",
+    "last_updated": "2026-11-28T17:49:35.556Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.",
